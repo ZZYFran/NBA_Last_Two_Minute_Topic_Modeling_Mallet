@@ -1,0 +1,12 @@
+0	4.16667	uta lac ball rsbq shows layup arm defends position foul legal affecting pass williams commits rebound ability play gobert paul 
+1	4.16667	contact cle min makes attempt screen incidental james shot room sets avoid affects affect guarding towns wiggins legal position maintains 
+2	4.16667	atl dal replay communicating center ruling ball possession court foul floor matthews clock upheld barnes confirmed awarded overturned opportunity stop 
+3	4.16667	por contact det orl makes shot attempt incidental sets screen avoid position guarding legal room affects morris basket gortat lillard 
+4	4.16667	nop nyk contact pho makes attempt shot incidental davis screen holiday position guarding sets legal maintains avoid room foul affects 
+5	4.16667	ind okc contact makes screen sets incidental shot attempt avoid adams turner westbrook george room hill ball guarding oladipo position 
+6	4.16667	mia contact gsw lal makes attempt shot incidental johnson guarding affect screen green sets maintains legal room dragic avoid ball 
+7	4.16667	mem sac sas contact makes shot attempt incidental gasol affect green cousins screen position affects ball room aldridge legal jump 
+8	4.16667	marginal hou sqbr affect call observable correct enhanced incorrect non-call video legally foot jump period contests pivot ability release makes 
+9	4.16667	mil cha contact phi makes incidental attempt shot screen antetokounmpo affects ball walker foul middleton sets avoid maintains position room 
+10	4.16667	tor bkn contact shot attempt makes incidental legal position affect maintains guarding derozan ball lowry sets affects drive screen basket 
+11	4.16667	bos chi contact den makes attempt shot incidental affects ball affect guarding horford thomas legal smart maintains screen lopez arm 

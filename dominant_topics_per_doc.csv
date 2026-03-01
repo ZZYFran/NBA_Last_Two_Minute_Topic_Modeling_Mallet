@@ -1,0 +1,1477 @@
+doc_file,topic_id,topic_label,topic_proportion
+20180108TORBKN.txt,10,Wing isolation or drive play,0.7176282051282051
+20161120INDOKC.txt,5,Screen-related offensive contact,0.707169459962756
+20160330MIALAL.txt,6,Off-ball or weak-side contact,0.6524914089347079
+20180114NOPNYK.txt,4,Drive or shot contested by defender,0.6331679073614557
+20170213NOPPHO.txt,4,Drive or shot contested by defender,0.6202064896755162
+20171230NYKNOP.txt,4,Drive or shot contested by defender,0.6159673659673659
+20180323BKNTOR.txt,10,Wing isolation or drive play,0.6107561235356762
+20171129GSWLAL.txt,6,Off-ball or weak-side contact,0.6065972222222222
+20170311WASPOR.txt,3,Perimeter shot with defender contact,0.5840415486307837
+20170422SASMEM.txt,7,Post-play physical contact,0.5807511737089202
+20171218GSWLAL.txt,6,Off-ball or weak-side contact,0.5754332313965341
+20161213NYKPHO.txt,4,Drive or shot contested by defender,0.5754332313965341
+20170121PHONYK.txt,4,Drive or shot contested by defender,0.5621980676328502
+20161211NOPPHO.txt,4,Drive or shot contested by defender,0.5619578686493184
+20160308BKNTOR.txt,10,Wing isolation or drive play,0.5586264656616415
+20171213OKCIND.txt,5,Screen-related offensive contact,0.555050505050505
+20170216BOSCHI.txt,11,General shooting foul situation,0.55359477124183
+20171222CHAMIL.txt,9,Guard-driven shot with defensive pressure,0.549863387978142
+20171023CHAMIL.txt,9,Guard-driven shot with defensive pressure,0.5471596998928189
+20170404MEMSAS.txt,7,Post-play physical contact,0.5467244701348747
+20160410MILPHI.txt,9,Guard-driven shot with defensive pressure,0.540905134899913
+20180207MINCLE.txt,1,Shot attempt with incidental contact,0.5385038503850385
+20150509ATLWAS.txt,2,Replay review and ruling outcome,0.5231481481481481
+20150310NYKUTA.txt,0,Close-range contact near the basket,0.5221169036334913
+20170416CHIBOS.txt,11,General shooting foul situation,0.5146082337317397
+20180108SASSAC.txt,7,Post-play physical contact,0.514525993883792
+20161102CHIBOS.txt,11,General shooting foul situation,0.5091074681238615
+20150412OKCIND.txt,5,Screen-related offensive contact,0.5064814814814815
+20180305MEMSAS.txt,7,Post-play physical contact,0.5047425474254743
+20160406DETORL.txt,3,Perimeter shot with defender contact,0.5030721966205838
+20170108DETPOR.txt,3,Perimeter shot with defender contact,0.5024067388688327
+20160325MINWAS.txt,1,Shot attempt with incidental contact,0.4951287404314544
+20171223MILCHA.txt,9,Guard-driven shot with defensive pressure,0.4937214611872146
+20180316DALTOR.txt,10,Wing isolation or drive play,0.4898459383753501
+20161105WASORL.txt,3,Perimeter shot with defender contact,0.4890453834115806
+20160219CHAMIL.txt,9,Guard-driven shot with defensive pressure,0.4874631268436578
+20170427SASMEM.txt,7,Post-play physical contact,0.4840510366826157
+20161216SACMEM.txt,7,Post-play physical contact,0.483187134502924
+20160219INDOKC.txt,5,Screen-related offensive contact,0.4808558558558559
+20171101MILCHA.txt,9,Guard-driven shot with defensive pressure,0.4796557120500783
+20151125NOPPHO.txt,4,Drive or shot contested by defender,0.476537216828479
+20161104PHONOP.txt,4,Drive or shot contested by defender,0.4741496598639456
+20171125PORWAS.txt,3,Perimeter shot with defender contact,0.4732770745428973
+20170327MEMSAC.txt,7,Post-play physical contact,0.4708333333333334
+20160408LACUTA.txt,0,Close-range contact near the basket,0.4697777777777777
+20180226PHONOP.txt,4,Drive or shot contested by defender,0.4642276422764227
+20170223PORORL.txt,3,Perimeter shot with defender contact,0.4629629629629629
+20170123GSWMIA.txt,6,Off-ball or weak-side contact,0.4611451942740286
+20151122PHONOP.txt,4,Drive or shot contested by defender,0.4600456621004566
+20180113BKNWAS.txt,10,Wing isolation or drive play,0.4590643274853801
+20170121WASDET.txt,3,Perimeter shot with defender contact,0.4588313413014608
+20170125PHIMIL.txt,9,Guard-driven shot with defensive pressure,0.4572649572649573
+20161205MEMNOP.txt,7,Post-play physical contact,0.4557291666666666
+20160401CLEATL.txt,1,Shot attempt with incidental contact,0.4537786774628879
+20180316MIALAL.txt,6,Off-ball or weak-side contact,0.4500624219725344
+20160224GSWMIA.txt,6,Off-ball or weak-side contact,0.4416666666666667
+20170409CLEATL.txt,1,Shot attempt with incidental contact,0.4406721536351166
+20170228PORDET.txt,3,Perimeter shot with defender contact,0.4396051103368176
+20171130CHIDEN.txt,11,General shooting foul situation,0.4381944444444444
+20161027BOSCHI.txt,11,General shooting foul situation,0.4380692167577413
+20170206OKCIND.txt,5,Screen-related offensive contact,0.4359903381642512
+20150315HOULAC.txt,0,Close-range contact near the basket,0.4345730027548209
+20161222LALMIA.txt,6,Off-ball or weak-side contact,0.4326047358834244
+20170129NYKATL.txt,4,Drive or shot contested by defender,0.4311811811811812
+20160405MINGSW.txt,1,Shot attempt with incidental contact,0.430494905385735
+20170208WASBKN.txt,10,Wing isolation or drive play,0.4249786871270247
+20171020UTAMIN.txt,1,Shot attempt with incidental contact,0.4248035914702581
+20161118TORDEN.txt,10,Wing isolation or drive play,0.4225293132328307
+20170324ATLMIL.txt,9,Guard-driven shot with defensive pressure,0.4216791979949875
+20151118MINORL.txt,1,Shot attempt with incidental contact,0.4216008771929824
+20180129BOSDEN.txt,11,General shooting foul situation,0.4191073919107392
+20170421HOUOKC.txt,5,Screen-related offensive contact,0.4190705128205128
+20161217HOUMIN.txt,1,Shot attempt with incidental contact,0.4169510807736064
+20171018HOUSAC.txt,8,Marginal contact & non-call assessment,0.413768115942029
+20160120UTANYK.txt,0,Close-range contact near the basket,0.4109649122807017
+20170320UTAIND.txt,5,Screen-related offensive contact,0.4106606606606607
+20171228HOUBOS.txt,11,General shooting foul situation,0.410548523206751
+20160301ATLGSW.txt,6,Off-ball or weak-side contact,0.4102196752626552
+20150513WASATL.txt,2,Replay review and ruling outcome,0.40993265993266
+20180302CHAPHI.txt,9,Guard-driven shot with defensive pressure,0.4094551282051282
+20171211TORLAC.txt,10,Wing isolation or drive play,0.4071815718157182
+20161122CHIDEN.txt,11,General shooting foul situation,0.4069892473118279
+20170204CHAUTA.txt,9,Guard-driven shot with defensive pressure,0.4064465408805032
+20180323UTASAS.txt,7,Post-play physical contact,0.405608214849921
+20161201HOUGSW.txt,6,Off-ball or weak-side contact,0.4047619047619047
+20160328NYKNOP.txt,4,Drive or shot contested by defender,0.4037216828478964
+20180406SACMEM.txt,7,Post-play physical contact,0.4030797101449275
+20180227WASMIL.txt,9,Guard-driven shot with defensive pressure,0.4013994910941476
+20151214LACDET.txt,3,Perimeter shot with defender contact,0.4013364779874213
+20170215NOPMEM.txt,4,Drive or shot contested by defender,0.3998682476943346
+20180212SASUTA.txt,0,Close-range contact near the basket,0.3984992101105845
+20150318ORLDAL.txt,2,Replay review and ruling outcome,0.3981481481481482
+20180405WASCLE.txt,1,Shot attempt with incidental contact,0.397671568627451
+20161109PHIIND.txt,9,Guard-driven shot with defensive pressure,0.3973407544836116
+20170305ORLWAS.txt,3,Perimeter shot with defender contact,0.3971861471861472
+20160308WASPOR.txt,3,Perimeter shot with defender contact,0.3956109134045077
+20160505MIATOR.txt,10,Wing isolation or drive play,0.3939716312056737
+20171212WASBKN.txt,10,Wing isolation or drive play,0.393387314439946
+20161221SACUTA.txt,7,Post-play physical contact,0.3923611111111111
+20171102LALPOR.txt,3,Perimeter shot with defender contact,0.3921985815602837
+20170206CLEWAS.txt,1,Shot attempt with incidental contact,0.3921188630490956
+20160112CLEDAL.txt,1,Shot attempt with incidental contact,0.3918187964841109
+20161228NYKATL.txt,4,Drive or shot contested by defender,0.3912760416666667
+20171128WASMIN.txt,1,Shot attempt with incidental contact,0.3903954802259887
+20170130DETBOS.txt,11,General shooting foul situation,0.3903318903318903
+20170320PHIORL.txt,9,Guard-driven shot with defensive pressure,0.3894977168949771
+20180201MEMDET.txt,7,Post-play physical contact,0.3892580287929125
+20170206PHONOP.txt,4,Drive or shot contested by defender,0.3892156862745098
+20180105NYKMIA.txt,4,Drive or shot contested by defender,0.3891385767790262
+20170412DETORL.txt,3,Perimeter shot with defender contact,0.3885767790262172
+20160118UTACHA.txt,0,Close-range contact near the basket,0.3882575757575757
+20170419OKCHOU.txt,5,Screen-related offensive contact,0.3869949494949495
+20160302SACMEM.txt,7,Post-play physical contact,0.386963696369637
+20150515ATLWAS.txt,2,Replay review and ruling outcome,0.3867102396514161
+20160403OKCHOU.txt,5,Screen-related offensive contact,0.3861788617886179
+20160317TORIND.txt,5,Screen-related offensive contact,0.3855721393034825
+20161220CLEMIL.txt,9,Guard-driven shot with defensive pressure,0.3852258852258852
+20161202MINNYK.txt,1,Shot attempt with incidental contact,0.3846761453396525
+20160507TORMIA.txt,10,Wing isolation or drive play,0.3843537414965987
+20171120BOSDAL.txt,11,General shooting foul situation,0.3843094721619667
+20160205CHIDEN.txt,11,General shooting foul situation,0.3841991341991342
+20180113LALDAL.txt,6,Off-ball or weak-side contact,0.384075907590759
+20171209OKCMEM.txt,5,Screen-related offensive contact,0.3830203442879499
+20160506SASOKC.txt,5,Screen-related offensive contact,0.3828213879408418
+20171208DALMIL.txt,9,Guard-driven shot with defensive pressure,0.3824343015214385
+20161220ORLMIA.txt,6,Off-ball or weak-side contact,0.3816768086544962
+20170308SACSAS.txt,7,Post-play physical contact,0.3814553990610329
+20150428SASLAC.txt,0,Close-range contact near the basket,0.3814504881450488
+20170313LACUTA.txt,0,Close-range contact near the basket,0.3813905930470347
+20170331DETMIL.txt,9,Guard-driven shot with defensive pressure,0.3807724601175482
+20160110INDHOU.txt,5,Screen-related offensive contact,0.3806244260789715
+20151118PORHOU.txt,3,Perimeter shot with defender contact,0.3803538175046554
+20170421LACUTA.txt,0,Close-range contact near the basket,0.3801054018445323
+20160412OKCSAS.txt,5,Screen-related offensive contact,0.3800880088008801
+20170113ORLPOR.txt,3,Perimeter shot with defender contact,0.3795572916666667
+20171124PORBKN.txt,10,Wing isolation or drive play,0.3782642089093702
+20171208CHICHA.txt,11,General shooting foul situation,0.3774603174603174
+20170118TORPHI.txt,10,Wing isolation or drive play,0.3769113149847095
+20170316UTACLE.txt,1,Shot attempt with incidental contact,0.3764227642276423
+20151129MILCHA.txt,9,Guard-driven shot with defensive pressure,0.3761574074074074
+20151223DALBKN.txt,10,Wing isolation or drive play,0.3758553274682307
+20180304BKNLAC.txt,10,Wing isolation or drive play,0.3757183908045977
+20180201TORWAS.txt,10,Wing isolation or drive play,0.374750499001996
+20161129LACBKN.txt,10,Wing isolation or drive play,0.3735772357723577
+20171215NOPDEN.txt,11,General shooting foul situation,0.3734082397003745
+20180330PHOHOU.txt,4,Drive or shot contested by defender,0.3734030197444832
+20180309HOUTOR.txt,8,Marginal contact & non-call assessment,0.3730425055928412
+20180410HOULAL.txt,8,Marginal contact & non-call assessment,0.373015873015873
+20160227GSWOKC.txt,6,Off-ball or weak-side contact,0.3729885057471264
+20151211GSWBOS.txt,6,Off-ball or weak-side contact,0.3729623383923552
+20170502WASBOS.txt,11,General shooting foul situation,0.3722860791826309
+20150316ATLSAC.txt,2,Replay review and ruling outcome,0.3721174004192872
+20151203DENTOR.txt,10,Wing isolation or drive play,0.3717447916666667
+20180522HOUGSW.txt,8,Marginal contact & non-call assessment,0.3716136631330978
+20180214GSWPOR.txt,6,Off-ball or weak-side contact,0.3711395101171459
+20160304BKNDEN.txt,11,General shooting foul situation,0.371111111111111
+20180223MILTOR.txt,10,Wing isolation or drive play,0.3710488505747126
+20170208LACNYK.txt,4,Drive or shot contested by defender,0.3704710144927536
+20151229MIAMEM.txt,6,Off-ball or weak-side contact,0.3702791461412151
+20170428LACUTA.txt,0,Close-range contact near the basket,0.3701472556894243
+20171122WASCHA.txt,9,Guard-driven shot with defensive pressure,0.3700828157349897
+20171028BOSMIA.txt,6,Off-ball or weak-side contact,0.3698717948717949
+20171125LACSAC.txt,7,Post-play physical contact,0.3696296296296296
+20180101PORCHI.txt,3,Perimeter shot with defender contact,0.3696006519967399
+20160118HOULAC.txt,0,Close-range contact near the basket,0.3695402298850574
+20161223ATLDEN.txt,11,General shooting foul situation,0.3693957115009746
+20170415UTALAC.txt,0,Close-range contact near the basket,0.3692214111922141
+20161121PHOWAS.txt,4,Drive or shot contested by defender,0.367737003058104
+20180302DETORL.txt,3,Perimeter shot with defender contact,0.367737003058104
+20180304INDWAS.txt,5,Screen-related offensive contact,0.3674388674388674
+20171030MINMIA.txt,6,Off-ball or weak-side contact,0.367271505376344
+20180225NOPMIL.txt,4,Drive or shot contested by defender,0.3669991687448046
+20171208SACNOP.txt,7,Post-play physical contact,0.3664574616457461
+20160226DENDAL.txt,11,General shooting foul situation,0.3664274322169059
+20150414WASIND.txt,5,Screen-related offensive contact,0.3663761801016703
+20180406DALDET.txt,3,Perimeter shot with defender contact,0.3662733529990167
+20170125SACCLE.txt,7,Post-play physical contact,0.3660862354892205
+20150511ATLWAS.txt,2,Replay review and ruling outcome,0.3659611992945326
+20171230PHIDEN.txt,11,General shooting foul situation,0.3654970760233918
+20160413DETCLE.txt,1,Shot attempt with incidental contact,0.3650537634408602
+20170207PORDAL.txt,3,Perimeter shot with defender contact,0.3650472334682861
+20171205UTAOKC.txt,5,Screen-related offensive contact,0.3648339060710195
+20180126HOUNOP.txt,8,Marginal contact & non-call assessment,0.3646232439335888
+20160221SASPHO.txt,4,Drive or shot contested by defender,0.3645276292335116
+20160115ATLMIL.txt,9,Guard-driven shot with defensive pressure,0.3644338118022329
+20170211LACCHA.txt,9,Guard-driven shot with defensive pressure,0.3642424242424242
+20170226CHALAC.txt,9,Guard-driven shot with defensive pressure,0.3635964912280701
+20151205INDUTA.txt,0,Close-range contact near the basket,0.3635658914728682
+20160407TORATL.txt,10,Wing isolation or drive play,0.3635658914728682
+20160208LACPHI.txt,0,Close-range contact near the basket,0.3632138114209827
+20170402INDCLE.txt,1,Shot attempt with incidental contact,0.3631549609810479
+20170305UTASAC.txt,7,Post-play physical contact,0.3628649015614392
+20180325NYKWAS.txt,4,Drive or shot contested by defender,0.3628608923884515
+20171223BKNIND.txt,10,Wing isolation or drive play,0.3625561978163134
+20161116MEMLAC.txt,7,Post-play physical contact,0.3622112211221122
+20160126OKCNYK.txt,5,Screen-related offensive contact,0.3620527306967984
+20170425UTALAC.txt,0,Close-range contact near the basket,0.3620495495495495
+20160306DALDEN.txt,11,General shooting foul situation,0.3619791666666666
+20161123MEMPHI.txt,7,Post-play physical contact,0.3616255144032922
+20180120GSWHOU.txt,8,Marginal contact & non-call assessment,0.3614916286149163
+20161125WASORL.txt,3,Perimeter shot with defender contact,0.3612836438923395
+20161101HOUCLE.txt,1,Shot attempt with incidental contact,0.3612521150592216
+20161102OKCLAC.txt,5,Screen-related offensive contact,0.3611111111111111
+20180319DENMIA.txt,11,General shooting foul situation,0.3602464332036316
+20171201MINOKC.txt,1,Shot attempt with incidental contact,0.3601928374655647
+20160509TORMIA.txt,10,Wing isolation or drive play,0.3598765432098765
+20171230CLEUTA.txt,1,Shot attempt with incidental contact,0.3594147582697201
+20171222NYKDET.txt,4,Drive or shot contested by defender,0.3592995169082126
+20170312PHILAL.txt,9,Guard-driven shot with defensive pressure,0.3589306029579067
+20171020DETWAS.txt,3,Perimeter shot with defender contact,0.3587719298245614
+20170328PHIBKN.txt,9,Guard-driven shot with defensive pressure,0.3583333333333333
+20180123BKNOKC.txt,5,Screen-related offensive contact,0.3583333333333333
+20180110CHINYK.txt,4,Drive or shot contested by defender,0.3583009079118028
+20170315MILLAC.txt,9,Guard-driven shot with defensive pressure,0.3578042328042328
+20180321CHABKN.txt,10,Wing isolation or drive play,0.3577380952380952
+20160306HOUTOR.txt,10,Wing isolation or drive play,0.357449088960343
+20171212LALNYK.txt,6,Off-ball or weak-side contact,0.357347670250896
+20170329MILBOS.txt,9,Guard-driven shot with defensive pressure,0.3567538126361655
+20180325MIAIND.txt,5,Screen-related offensive contact,0.3566748566748566
+20180304CHATOR.txt,10,Wing isolation or drive play,0.3565531475748194
+20170119DALMIA.txt,6,Off-ball or weak-side contact,0.3565292096219931
+20150323MINUTA.txt,0,Close-range contact near the basket,0.3561710398445092
+20161102PORPHO.txt,3,Perimeter shot with defender contact,0.3560996563573883
+20161213MINCHI.txt,1,Shot attempt with incidental contact,0.3560157790927021
+20161228INDWAS.txt,5,Screen-related offensive contact,0.3557919621749408
+20171111MINPHO.txt,1,Shot attempt with incidental contact,0.3557471264367816
+20160429LACPOR.txt,3,Perimeter shot with defender contact,0.3556201550387596
+20171020LALPHO.txt,4,Drive or shot contested by defender,0.3554131054131054
+20171231LALHOU.txt,6,Off-ball or weak-side contact,0.355392156862745
+20151204CLENOP.txt,4,Drive or shot contested by defender,0.3553763440860215
+20170223CHADET.txt,9,Guard-driven shot with defensive pressure,0.3551650692225772
+20171027WASGSW.txt,6,Off-ball or weak-side contact,0.3545953360768176
+20160502OKCSAS.txt,7,Post-play physical contact,0.3544657097288676
+20160418DALOKC.txt,5,Screen-related offensive contact,0.3544372294372294
+20170213ATLPOR.txt,3,Perimeter shot with defender contact,0.3541666666666667
+20180101MILTOR.txt,10,Wing isolation or drive play,0.3541666666666666
+20171212PHIMIN.txt,1,Shot attempt with incidental contact,0.3537794299876084
+20171030CHAMEM.txt,7,Post-play physical contact,0.3535947712418301
+20161206PHIMEM.txt,9,Guard-driven shot with defensive pressure,0.3534621578099839
+20160408MIAORL.txt,3,Perimeter shot with defender contact,0.3533886583679115
+20180328BOSUTA.txt,11,General shooting foul situation,0.3533886583679115
+20150422SASLAC.txt,0,Close-range contact near the basket,0.3527131782945736
+20180331BKNMIA.txt,10,Wing isolation or drive play,0.3527131782945736
+20170124MINPHO.txt,1,Shot attempt with incidental contact,0.3525963149078727
+20171026DALMEM.txt,7,Post-play physical contact,0.3524691358024691
+20180308SASGSW.txt,7,Post-play physical contact,0.3521046643913538
+20171117MIAWAS.txt,6,Off-ball or weak-side contact,0.3521021021021021
+20170311PHODAL.txt,4,Drive or shot contested by defender,0.3520531400966183
+20171110ATLDET.txt,3,Perimeter shot with defender contact,0.3516548463356974
+20160127LACATL.txt,0,Close-range contact near the basket,0.3515452538631347
+20180321TORCLE.txt,10,Wing isolation or drive play,0.3513708513708514
+20150427ATLBKN.txt,10,Wing isolation or drive play,0.3513681592039801
+20161119CHANOP.txt,4,Drive or shot contested by defender,0.3508184523809524
+20150302LACMIN.txt,1,Shot attempt with incidental contact,0.3507575757575757
+20170423LACUTA.txt,0,Close-range contact near the basket,0.3506375227686703
+20180404DALORL.txt,3,Perimeter shot with defender contact,0.3505231689088191
+20161106MILDAL.txt,9,Guard-driven shot with defensive pressure,0.3503611971104231
+20170508HOUSAS.txt,8,Marginal contact & non-call assessment,0.3499149659863945
+20180214INDBKN.txt,10,Wing isolation or drive play,0.3498995983935743
+20170123OKCUTA.txt,5,Screen-related offensive contact,0.3498062015503876
+20151118TORUTA.txt,0,Close-range contact near the basket,0.3495238095238095
+20151104PHIMIL.txt,9,Guard-driven shot with defensive pressure,0.3493827160493827
+20180309LALDEN.txt,11,General shooting foul situation,0.3493265993265994
+20161026OKCPHI.txt,5,Screen-related offensive contact,0.3492392807745505
+20171215OKCPHI.txt,9,Guard-driven shot with defensive pressure,0.3491954022988505
+20180330DENOKC.txt,11,General shooting foul situation,0.3490896358543417
+20180210NOPBKN.txt,4,Drive or shot contested by defender,0.3489909533750869
+20180116NOPBOS.txt,11,General shooting foul situation,0.3488990129081245
+20151221OKCLAC.txt,0,Close-range contact near the basket,0.3484299516908212
+20171213UTACHI.txt,11,General shooting foul situation,0.3480874316939891
+20180227BKNCLE.txt,10,Wing isolation or drive play,0.347323600973236
+20170121SASCLE.txt,7,Post-play physical contact,0.3472222222222222
+20171227DALIND.txt,5,Screen-related offensive contact,0.3471544715447154
+20160327HOUIND.txt,5,Screen-related offensive contact,0.3466947960618847
+20161111INDPHI.txt,9,Guard-driven shot with defensive pressure,0.3465732087227414
+20160320PORDAL.txt,3,Perimeter shot with defender contact,0.3465544871794871
+20161212BKNHOU.txt,10,Wing isolation or drive play,0.3464912280701754
+20160110NOPLAC.txt,0,Close-range contact near the basket,0.3464598249801113
+20161218BKNPHI.txt,9,Guard-driven shot with defensive pressure,0.3463901689708141
+20180322DETHOU.txt,3,Perimeter shot with defender contact,0.3463665086887835
+20171128PHOCHI.txt,4,Drive or shot contested by defender,0.3459429824561403
+20171104NOPCHI.txt,4,Drive or shot contested by defender,0.3457516339869281
+20161226DALNOP.txt,4,Drive or shot contested by defender,0.3455459770114942
+20160125ORLMEM.txt,7,Post-play physical contact,0.3454627133872416
+20170301INDSAS.txt,7,Post-play physical contact,0.345350052246604
+20160312MIATOR.txt,10,Wing isolation or drive play,0.3451576576576576
+20180403ATLMIA.txt,6,Off-ball or weak-side contact,0.3450390189520624
+20171023SACPHO.txt,7,Post-play physical contact,0.3448067632850242
+20161115ATLMIA.txt,6,Off-ball or weak-side contact,0.3446455505279034
+20170309PHIPOR.txt,9,Guard-driven shot with defensive pressure,0.3446078431372549
+20151207LACMIN.txt,1,Shot attempt with incidental contact,0.3444940476190476
+20161109HOUSAS.txt,7,Post-play physical contact,0.3444940476190476
+20180223MIANOP.txt,4,Drive or shot contested by defender,0.3441947565543071
+20151104LACGSW.txt,0,Close-range contact near the basket,0.3441127694859038
+20161102DETBKN.txt,10,Wing isolation or drive play,0.3439922480620155
+20161125OKCDEN.txt,11,General shooting foul situation,0.3433862433862434
+20180321INDNOP.txt,4,Drive or shot contested by defender,0.3431372549019608
+20151217TORCHA.txt,10,Wing isolation or drive play,0.3430173292558613
+20160203ORLOKC.txt,5,Screen-related offensive contact,0.3429824561403509
+20180124NOPCHA.txt,4,Drive or shot contested by defender,0.3429487179487179
+20180213MIATOR.txt,10,Wing isolation or drive play,0.342841163310962
+20180110DALCHA.txt,9,Guard-driven shot with defensive pressure,0.3428390367553866
+20180301BKNSAC.txt,7,Post-play physical contact,0.3427057864710676
+20160206DALMEM.txt,7,Post-play physical contact,0.3426745329400197
+20170303SASNOP.txt,7,Post-play physical contact,0.3424717145343777
+20161128SACWAS.txt,7,Post-play physical contact,0.3422787193973635
+20170301CLEBOS.txt,1,Shot attempt with incidental contact,0.3422764227642276
+20170106MEMGSW.txt,7,Post-play physical contact,0.3421474358974359
+20180317SACUTA.txt,7,Post-play physical contact,0.3420441347270616
+20151123SACCHA.txt,9,Guard-driven shot with defensive pressure,0.3419150858175248
+20180307TORDET.txt,10,Wing isolation or drive play,0.3417467948717948
+20180107UTAMIA.txt,6,Off-ball or weak-side contact,0.3410364145658263
+20180130OKCWAS.txt,5,Screen-related offensive contact,0.34077892325315
+20171216MILHOU.txt,9,Guard-driven shot with defensive pressure,0.3407557354925776
+20160501INDTOR.txt,10,Wing isolation or drive play,0.3405797101449275
+20160219DALORL.txt,3,Perimeter shot with defender contact,0.3404761904761905
+20170311NOPCHA.txt,9,Guard-driven shot with defensive pressure,0.3403558052434457
+20171129BKNDAL.txt,10,Wing isolation or drive play,0.3402777777777778
+20180112BKNATL.txt,10,Wing isolation or drive play,0.3402116402116402
+20171027OKCMIN.txt,1,Shot attempt with incidental contact,0.3400830737279335
+20160104INDMIA.txt,6,Off-ball or weak-side contact,0.3398989898989899
+20161210MILWAS.txt,9,Guard-driven shot with defensive pressure,0.3398148148148148
+20180228OKCDAL.txt,5,Screen-related offensive contact,0.3397435897435897
+20170328MININD.txt,1,Shot attempt with incidental contact,0.3396686159844054
+20180208BOSWAS.txt,11,General shooting foul situation,0.3393650793650793
+20180327DENTOR.txt,10,Wing isolation or drive play,0.339080459770115
+20170407MIATOR.txt,6,Off-ball or weak-side contact,0.3390367553865653
+20150423CHIMIL.txt,9,Guard-driven shot with defensive pressure,0.338974358974359
+20180119MIABKN.txt,10,Wing isolation or drive play,0.3388888888888889
+20160222INDMIA.txt,5,Screen-related offensive contact,0.3385200553250345
+20171107CHITOR.txt,11,General shooting foul situation,0.3383500557413601
+20160104HOUUTA.txt,0,Close-range contact near the basket,0.3379373848987108
+20161203MIAPOR.txt,6,Off-ball or weak-side contact,0.3377192982456141
+20180115SASATL.txt,7,Post-play physical contact,0.3375149342891279
+20150316LALGSW.txt,6,Off-ball or weak-side contact,0.337431693989071
+20160201CHIUTA.txt,0,Close-range contact near the basket,0.3373764600179694
+20161026DENNOP.txt,4,Drive or shot contested by defender,0.3372827804107425
+20170131NOPTOR.txt,10,Wing isolation or drive play,0.3372497824194952
+20171021INDMIA.txt,5,Screen-related offensive contact,0.337173579109063
+20170210MIABKN.txt,10,Wing isolation or drive play,0.3371212121212121
+20180209MINCHI.txt,1,Shot attempt with incidental contact,0.3369252873563219
+20151109MINATL.txt,1,Shot attempt with incidental contact,0.3367071524966262
+20170304MINSAS.txt,1,Shot attempt with incidental contact,0.3366271409749671
+20150403TORBKN.txt,10,Wing isolation or drive play,0.3366228070175438
+20161227UTALAL.txt,6,Off-ball or weak-side contact,0.3362235067437379
+20180117SASBKN.txt,7,Post-play physical contact,0.3362168396770473
+20160423LACPOR.txt,3,Perimeter shot with defender contact,0.336080586080586
+20170124SASTOR.txt,7,Post-play physical contact,0.3357963875205255
+20170116ATLNYK.txt,4,Drive or shot contested by defender,0.3357605177993528
+20161213GSWNOP.txt,4,Drive or shot contested by defender,0.3356589147286822
+20170405DENHOU.txt,8,Marginal contact & non-call assessment,0.3355957767722474
+20160129MIAMIL.txt,9,Guard-driven shot with defensive pressure,0.3355957767722474
+20170125ATLCHI.txt,11,General shooting foul situation,0.3355359765051395
+20180102MEMLAC.txt,7,Post-play physical contact,0.3353494623655914
+20170303CLEATL.txt,1,Shot attempt with incidental contact,0.3353018372703412
+20160118PHINYK.txt,4,Drive or shot contested by defender,0.3351688693098384
+20180226INDDAL.txt,5,Screen-related offensive contact,0.3349567099567099
+20180313INDPHI.txt,9,Guard-driven shot with defensive pressure,0.3348813209494324
+20170118INDSAC.txt,7,Post-play physical contact,0.334307992202729
+20151121WASDET.txt,3,Perimeter shot with defender contact,0.3342592592592592
+20161209ATLMIL.txt,9,Guard-driven shot with defensive pressure,0.3342013888888889
+20180315LACHOU.txt,8,Marginal contact & non-call assessment,0.3341880341880342
+20161229BOSCLE.txt,1,Shot attempt with incidental contact,0.3341625207296849
+20171221TORPHI.txt,10,Wing isolation or drive play,0.3339243498817967
+20180304PHOATL.txt,4,Drive or shot contested by defender,0.3338833883388339
+20151211MINDEN.txt,1,Shot attempt with incidental contact,0.3337479270315091
+20161029PORDEN.txt,11,General shooting foul situation,0.3326745718050066
+20150427MEMPOR.txt,7,Post-play physical contact,0.3325757575757576
+20180122CHINOP.txt,4,Drive or shot contested by defender,0.3324056895485466
+20151218LACSAS.txt,0,Close-range contact near the basket,0.3323970037453183
+20171025HOUPHI.txt,9,Guard-driven shot with defensive pressure,0.3315911730545877
+20170331NYKMIA.txt,6,Off-ball or weak-side contact,0.3315539739027284
+20180411DENMIN.txt,11,General shooting foul situation,0.3309078309078309
+20180405PORHOU.txt,8,Marginal contact & non-call assessment,0.3305830583058306
+20180313CHANOP.txt,4,Drive or shot contested by defender,0.3304093567251462
+20171206ATLORL.txt,3,Perimeter shot with defender contact,0.33025956284153
+20171025CLEBKN.txt,10,Wing isolation or drive play,0.3302469135802469
+20171223DALATL.txt,2,Replay review and ruling outcome,0.3301033591731266
+20161119BOSDET.txt,3,Perimeter shot with defender contact,0.3299039780521262
+20180323MIAOKC.txt,6,Off-ball or weak-side contact,0.3298611111111111
+20170411OKCMIN.txt,1,Shot attempt with incidental contact,0.3298611111111111
+20171222ATLOKC.txt,5,Screen-related offensive contact,0.3297258297258297
+20161026MINMEM.txt,1,Shot attempt with incidental contact,0.3296296296296296
+20170106MINWAS.txt,1,Shot attempt with incidental contact,0.3296019900497512
+20180323LACIND.txt,5,Screen-related offensive contact,0.3295795795795796
+20171105MIALAC.txt,6,Off-ball or weak-side contact,0.3294573643410853
+20160201CLEIND.txt,5,Screen-related offensive contact,0.3292902066486972
+20180131MIACLE.txt,6,Off-ball or weak-side contact,0.3292108362779741
+20160121ATLSAC.txt,7,Post-play physical contact,0.3289800995024876
+20150404PHICHA.txt,9,Guard-driven shot with defensive pressure,0.3289085545722713
+20171127SACGSW.txt,7,Post-play physical contact,0.328880407124682
+20160410TORNYK.txt,10,Wing isolation or drive play,0.328880407124682
+20171105INDNYK.txt,4,Drive or shot contested by defender,0.3284313725490196
+20180315TORIND.txt,10,Wing isolation or drive play,0.3283045977011494
+20171029SASIND.txt,5,Screen-related offensive contact,0.3281609195402299
+20160317CHAMIA.txt,6,Off-ball or weak-side contact,0.328030303030303
+20180105WASMEM.txt,7,Post-play physical contact,0.3279569892473118
+20160102NOPDAL.txt,4,Drive or shot contested by defender,0.3277777777777778
+20171122MILPHO.txt,4,Drive or shot contested by defender,0.3275729646697388
+20171110MIAUTA.txt,6,Off-ball or weak-side contact,0.3275577557755776
+20170115CHIMEM.txt,7,Post-play physical contact,0.3275577557755776
+20160503MIATOR.txt,6,Off-ball or weak-side contact,0.3275482093663912
+20171017HOUGSW.txt,8,Marginal contact & non-call assessment,0.3272849462365592
+20170321CHITOR.txt,11,General shooting foul situation,0.3272222222222222
+20151218DETCHI.txt,3,Perimeter shot with defender contact,0.3269822940723634
+20170215CHATOR.txt,10,Wing isolation or drive play,0.3266666666666666
+20170310GSWMIN.txt,1,Shot attempt with incidental contact,0.3266369047619047
+20171206DETMIL.txt,9,Guard-driven shot with defensive pressure,0.3265432098765432
+20180124UTADET.txt,3,Perimeter shot with defender contact,0.3264492753623188
+20180106BOSBKN.txt,10,Wing isolation or drive play,0.3264110756123536
+20150413NYKATL.txt,2,Replay review and ruling outcome,0.3263565891472868
+20161116HOUOKC.txt,5,Screen-related offensive contact,0.326309067688378
+20170314PHIGSW.txt,9,Guard-driven shot with defensive pressure,0.325944170771757
+20171113PHILAC.txt,9,Guard-driven shot with defensive pressure,0.3257887517146776
+20160401TORMEM.txt,10,Wing isolation or drive play,0.3257887517146776
+20151114ORLWAS.txt,3,Perimeter shot with defender contact,0.3257575757575757
+20180324CHADAL.txt,9,Guard-driven shot with defensive pressure,0.3256944444444444
+20171211NOPHOU.txt,4,Drive or shot contested by defender,0.3255977496483825
+20170116NOPIND.txt,4,Drive or shot contested by defender,0.3255977496483825
+20150502SASLAC.txt,0,Close-range contact near the basket,0.3255952380952381
+20151219CHAWAS.txt,9,Guard-driven shot with defensive pressure,0.3254799301919721
+20170418MILTOR.txt,9,Guard-driven shot with defensive pressure,0.3251851851851852
+20171117LACCLE.txt,1,Shot attempt with incidental contact,0.3251718213058419
+20170305INDATL.txt,5,Screen-related offensive contact,0.3250915750915751
+20170224BOSTOR.txt,11,General shooting foul situation,0.3250915750915751
+20170226NOPOKC.txt,5,Screen-related offensive contact,0.3250915750915751
+20151129HOUNYK.txt,4,Drive or shot contested by defender,0.3249754178957719
+20160102DENGSW.txt,11,General shooting foul situation,0.3248697916666667
+20171028PHOPOR.txt,3,Perimeter shot with defender contact,0.3247126436781609
+20161214CHAWAS.txt,9,Guard-driven shot with defensive pressure,0.3246031746031746
+20180130DENSAS.txt,7,Post-play physical contact,0.3242521367521367
+20170408MIAWAS.txt,6,Off-ball or weak-side contact,0.3239942528735632
+20180303BOSHOU.txt,11,General shooting foul situation,0.323982398239824
+20160331LACOKC.txt,5,Screen-related offensive contact,0.3238719068413391
+20170423HOUOKC.txt,8,Marginal contact & non-call assessment,0.3237463126843658
+20171124CHACLE.txt,1,Shot attempt with incidental contact,0.3237179487179487
+20161125TORMIL.txt,9,Guard-driven shot with defensive pressure,0.3236914600550964
+20151226LACUTA.txt,0,Close-range contact near the basket,0.3236559139784946
+20161118ATLCHA.txt,9,Guard-driven shot with defensive pressure,0.3236173393124066
+20150524ATLCLE.txt,2,Replay review and ruling outcome,0.3236057068741894
+20160403INDNYK.txt,5,Screen-related offensive contact,0.3234848484848485
+20160326BOSPHO.txt,4,Drive or shot contested by defender,0.3232662192393736
+20160130DENIND.txt,11,General shooting foul situation,0.323208722741433
+20160402TORSAS.txt,10,Wing isolation or drive play,0.3230593607305936
+20160229UTABOS.txt,0,Close-range contact near the basket,0.3230593607305936
+20180208CHAPOR.txt,9,Guard-driven shot with defensive pressure,0.3226950354609929
+20171207LALPHI.txt,6,Off-ball or weak-side contact,0.3224455611390285
+20170315MEMCHI.txt,7,Post-play physical contact,0.3224455611390285
+20170114SASPHO.txt,4,Drive or shot contested by defender,0.3222789115646258
+20180415MILBOS.txt,9,Guard-driven shot with defensive pressure,0.3220277169948942
+20180404SASLAL.txt,6,Off-ball or weak-side contact,0.3215277777777778
+20180427OKCUTA.txt,5,Screen-related offensive contact,0.3213879408418658
+20170204GSWSAC.txt,7,Post-play physical contact,0.3211856171039844
+20150304PORLAC.txt,0,Close-range contact near the basket,0.3210678210678211
+20161108PHOPOR.txt,4,Drive or shot contested by defender,0.3208333333333333
+20180122MIAHOU.txt,8,Marginal contact & non-call assessment,0.3206666666666667
+20161121HOUDET.txt,3,Perimeter shot with defender contact,0.3205128205128205
+20160205INDATL.txt,5,Screen-related offensive contact,0.3198198198198198
+20150320MILBKN.txt,10,Wing isolation or drive play,0.3196117804551539
+20151225SASHOU.txt,7,Post-play physical contact,0.319023569023569
+20151030OKCORL.txt,5,Screen-related offensive contact,0.318859649122807
+20171226MEMPHO.txt,4,Drive or shot contested by defender,0.3187229437229437
+20160330GSWUTA.txt,6,Off-ball or weak-side contact,0.3183656957928802
+20151119GSWLAC.txt,0,Close-range contact near the basket,0.3181159420289855
+20171025WASLAL.txt,6,Off-ball or weak-side contact,0.3179012345679012
+20170329OKCORL.txt,3,Perimeter shot with defender contact,0.317816091954023
+20180202LALBKN.txt,10,Wing isolation or drive play,0.3175582990397805
+20170226BOSDET.txt,11,General shooting foul situation,0.3173611111111111
+20151128TORWAS.txt,10,Wing isolation or drive play,0.3173258003766478
+20171227DENMIN.txt,1,Shot attempt with incidental contact,0.3172635445362718
+20160120MINDAL.txt,1,Shot attempt with incidental contact,0.3171462829736211
+20180306MIAWAS.txt,6,Off-ball or weak-side contact,0.3170624450307828
+20171112TORBOS.txt,10,Wing isolation or drive play,0.3170594837261504
+20160128DENWAS.txt,11,General shooting foul situation,0.3170572916666667
+20160203MINLAC.txt,1,Shot attempt with incidental contact,0.3170542635658915
+20170125LALPOR.txt,3,Perimeter shot with defender contact,0.3167641325536062
+20171109CLEHOU.txt,8,Marginal contact & non-call assessment,0.3167388167388167
+20170212DETTOR.txt,10,Wing isolation or drive play,0.3167388167388167
+20161209NYKSAC.txt,4,Drive or shot contested by defender,0.3166666666666667
+20151104ORLHOU.txt,3,Perimeter shot with defender contact,0.3166160081053698
+20170410CLEMIA.txt,6,Off-ball or weak-side contact,0.3164251207729469
+20161221DALPOR.txt,3,Perimeter shot with defender contact,0.3163992869875223
+20180107SASPOR.txt,7,Post-play physical contact,0.3162568306010929
+20170202LALWAS.txt,6,Off-ball or weak-side contact,0.316123188405797
+20170512BOSWAS.txt,11,General shooting foul situation,0.3160095579450418
+20161130ATLPHO.txt,2,Replay review and ruling outcome,0.3158436213991769
+20160424CLEDET.txt,1,Shot attempt with incidental contact,0.3158295281582953
+20160126LACIND.txt,0,Close-range contact near the basket,0.3158295281582953
+20150607CLEGSW.txt,6,Off-ball or weak-side contact,0.3156984785615491
+20180411TORMIA.txt,10,Wing isolation or drive play,0.3156028368794326
+20151213UTAOKC.txt,0,Close-range contact near the basket,0.3155668358714044
+20151212NOPCHI.txt,4,Drive or shot contested by defender,0.3154761904761904
+20160307SASIND.txt,7,Post-play physical contact,0.3152920962199312
+20170330BKNDET.txt,3,Perimeter shot with defender contact,0.315230961298377
+20160421GSWHOU.txt,6,Off-ball or weak-side contact,0.315230961298377
+20180409PORDEN.txt,3,Perimeter shot with defender contact,0.3150252525252525
+20160329CHIIND.txt,5,Screen-related offensive contact,0.3148148148148148
+20160106CHAPHO.txt,9,Guard-driven shot with defensive pressure,0.3147163120567375
+20170111MEMOKC.txt,7,Post-play physical contact,0.3147163120567375
+20151211OKCUTA.txt,0,Close-range contact near the basket,0.3146766169154228
+20180121BKNDET.txt,10,Wing isolation or drive play,0.3146367521367521
+20171229MILOKC.txt,5,Screen-related offensive contact,0.3145325203252033
+20170423CLEIND.txt,1,Shot attempt with incidental contact,0.3144144144144144
+20161125CHANYK.txt,9,Guard-driven shot with defensive pressure,0.3143939393939394
+20180103SASPHI.txt,7,Post-play physical contact,0.3143939393939394
+20171124TORIND.txt,10,Wing isolation or drive play,0.314367816091954
+20160210LACBOS.txt,11,General shooting foul situation,0.314367816091954
+20180119SASTOR.txt,7,Post-play physical contact,0.3142701525054466
+20160417DETCLE.txt,3,Perimeter shot with defender contact,0.3142620232172471
+20170331DENCHA.txt,9,Guard-driven shot with defensive pressure,0.3139059304703476
+20160523CLETOR.txt,10,Wing isolation or drive play,0.3139059304703476
+20151129PHOTOR.txt,4,Drive or shot contested by defender,0.313768115942029
+20170213SASIND.txt,5,Screen-related offensive contact,0.3136752136752136
+20171206CHIIND.txt,5,Screen-related offensive contact,0.3136315228966986
+20161111SACPOR.txt,7,Post-play physical contact,0.3135860979462875
+20171113CLENYK.txt,1,Shot attempt with incidental contact,0.3134430727023319
+20180203MIADET.txt,6,Off-ball or weak-side contact,0.3131944444444444
+20160221UTAPOR.txt,0,Close-range contact near the basket,0.3128019323671497
+20160210TORMIN.txt,10,Wing isolation or drive play,0.3127705627705627
+20171210DALMIN.txt,1,Shot attempt with incidental contact,0.3126666666666667
+20151218MILGSW.txt,6,Off-ball or weak-side contact,0.3126666666666667
+20171129WASPHI.txt,9,Guard-driven shot with defensive pressure,0.3121980676328502
+20170203CHIHOU.txt,8,Marginal contact & non-call assessment,0.3121794871794872
+20180129MIADAL.txt,6,Off-ball or weak-side contact,0.3121794871794872
+20180128LACNOP.txt,4,Drive or shot contested by defender,0.3118948824343015
+20180316BKNPHI.txt,10,Wing isolation or drive play,0.3118101545253863
+20171203SASOKC.txt,5,Screen-related offensive contact,0.3118022328548644
+20180130ORLHOU.txt,8,Marginal contact & non-call assessment,0.3114856429463171
+20180110MIAIND.txt,5,Screen-related offensive contact,0.3110021786492375
+20170101SASATL.txt,7,Post-play physical contact,0.3109649122807018
+20171018ATLDAL.txt,2,Replay review and ruling outcome,0.3107714701601164
+20170114ORLUTA.txt,3,Perimeter shot with defender contact,0.3105515587529975
+20180302DENMEM.txt,7,Post-play physical contact,0.3104719764011799
+20171109NOPTOR.txt,4,Drive or shot contested by defender,0.3104719764011799
+20180127BOSGSW.txt,11,General shooting foul situation,0.3104366347177849
+20180320OKCBOS.txt,11,General shooting foul situation,0.3102016607354685
+20151115TORSAC.txt,10,Wing isolation or drive play,0.3101010101010101
+20180129MINATL.txt,1,Shot attempt with incidental contact,0.3099891422366992
+20151225NOPMIA.txt,4,Drive or shot contested by defender,0.3098958333333333
+20170404DENNOP.txt,11,General shooting foul situation,0.3098484848484849
+20171116GSWBOS.txt,6,Off-ball or weak-side contact,0.3096969696969697
+20151127PHIHOU.txt,9,Guard-driven shot with defensive pressure,0.3096707818930041
+20170105UTATOR.txt,10,Wing isolation or drive play,0.3096707818930041
+20170326MIABOS.txt,11,General shooting foul situation,0.3094362745098039
+20180115TORPHI.txt,10,Wing isolation or drive play,0.3090277777777778
+20151209LALMIN.txt,1,Shot attempt with incidental contact,0.308688387635756
+20180329INDSAC.txt,5,Screen-related offensive contact,0.3084045584045584
+20170407DETHOU.txt,8,Marginal contact & non-call assessment,0.308130081300813
+20180302GSWATL.txt,6,Off-ball or weak-side contact,0.308041504539559
+20171215DETIND.txt,5,Screen-related offensive contact,0.3079954954954955
+20171103MIADEN.txt,11,General shooting foul situation,0.3077380952380952
+20180120TORMIN.txt,1,Shot attempt with incidental contact,0.3077360637087599
+20180101ORLBKN.txt,10,Wing isolation or drive play,0.3077342047930283
+20180330MILLAL.txt,6,Off-ball or weak-side contact,0.3075296108291032
+20171117OKCSAS.txt,5,Screen-related offensive contact,0.3074712643678161
+20180302INDMIL.txt,5,Screen-related offensive contact,0.3074229691876751
+20160405SASUTA.txt,7,Post-play physical contact,0.3073899371069182
+20170130SACPHI.txt,9,Guard-driven shot with defensive pressure,0.307347670250896
+20170116UTAPHO.txt,4,Drive or shot contested by defender,0.3070175438596491
+20180227PHIMIA.txt,9,Guard-driven shot with defensive pressure,0.306592039800995
+20170607GSWCLE.txt,6,Off-ball or weak-side contact,0.306136680613668
+20180407NOPGSW.txt,4,Drive or shot contested by defender,0.306047197640118
+20160205MEMNYK.txt,7,Post-play physical contact,0.3059467918622848
+20170127SACIND.txt,7,Post-play physical contact,0.3058882235528942
+20150401DALOKC.txt,5,Screen-related offensive contact,0.3058333333333333
+20150319MINNYK.txt,1,Shot attempt with incidental contact,0.3057598039215686
+20160309DETDAL.txt,2,Replay review and ruling outcome,0.3056801195814649
+20160416BOSATL.txt,11,General shooting foul situation,0.3054363376251788
+20150405CHICLE.txt,1,Shot attempt with incidental contact,0.3053830227743271
+20160407PHOHOU.txt,4,Drive or shot contested by defender,0.3053030303030303
+20180210MILORL.txt,3,Perimeter shot with defender contact,0.3053030303030303
+20180310PHOCHA.txt,9,Guard-driven shot with defensive pressure,0.3049828178694158
+20180415MINHOU.txt,8,Marginal contact & non-call assessment,0.3048611111111111
+20161108MINBKN.txt,10,Wing isolation or drive play,0.3047882136279926
+20161128ATLGSW.txt,6,Off-ball or weak-side contact,0.3046989720998532
+20170208TORMIN.txt,10,Wing isolation or drive play,0.304563492063492
+20160331BOSPOR.txt,3,Perimeter shot with defender contact,0.3045171339563863
+20151110NYKTOR.txt,10,Wing isolation or drive play,0.3045007032348805
+20170214TORCHI.txt,1,Shot attempt with incidental contact,0.3045007032348805
+20171213TORPHO.txt,10,Wing isolation or drive play,0.3043230944254835
+20180224PORPHO.txt,3,Perimeter shot with defender contact,0.3043154761904762
+20160224NYKIND.txt,5,Screen-related offensive contact,0.3043154761904762
+20160323PHIDEN.txt,11,General shooting foul situation,0.3043071161048689
+20160209UTADAL.txt,2,Replay review and ruling outcome,0.3042024832855778
+20161118LACSAC.txt,7,Post-play physical contact,0.3040780141843971
+20150405HOUOKC.txt,5,Screen-related offensive contact,0.3039617486338798
+20180125SACMIA.txt,6,Off-ball or weak-side contact,0.3038507821901324
+20161121BOSMIN.txt,1,Shot attempt with incidental contact,0.3034979423868312
+20170225PHINYK.txt,9,Guard-driven shot with defensive pressure,0.3033625730994152
+20160509GSWPOR.txt,6,Off-ball or weak-side contact,0.3031007751937984
+20161026DALIND.txt,5,Screen-related offensive contact,0.3029782359679267
+20150413DENLAC.txt,0,Close-range contact near the basket,0.3029513888888889
+20171107NOPIND.txt,4,Drive or shot contested by defender,0.3029513888888889
+20171210ATLNYK.txt,4,Drive or shot contested by defender,0.3028792912513843
+20170227TORNYK.txt,4,Drive or shot contested by defender,0.3028606965174129
+20160125DETUTA.txt,0,Close-range contact near the basket,0.3027613412228797
+20151111LACDAL.txt,0,Close-range contact near the basket,0.3027613412228797
+20170228UTAOKC.txt,5,Screen-related offensive contact,0.3026729559748428
+20161104CHABKN.txt,10,Wing isolation or drive play,0.3024691358024691
+20171107OKCSAC.txt,5,Screen-related offensive contact,0.3024425287356322
+20170331SASOKC.txt,7,Post-play physical contact,0.3024242424242424
+20180311INDBOS.txt,5,Screen-related offensive contact,0.3024007386888273
+20171220SASPOR.txt,7,Post-play physical contact,0.3020094562647754
+20161115TORCLE.txt,10,Wing isolation or drive play,0.3016975308641975
+20180329OKCSAS.txt,7,Post-play physical contact,0.3015607580824972
+20180302OKCPHO.txt,5,Screen-related offensive contact,0.3015607580824972
+20171231BKNBOS.txt,10,Wing isolation or drive play,0.3014571948998178
+20160203DENUTA.txt,0,Close-range contact near the basket,0.3012519561815336
+20180323BOSPOR.txt,3,Perimeter shot with defender contact,0.3011603375527426
+20180120MIACHA.txt,9,Guard-driven shot with defensive pressure,0.3011444921316166
+20160411MILORL.txt,9,Guard-driven shot with defensive pressure,0.3008771929824561
+20180119NYKUTA.txt,4,Drive or shot contested by defender,0.3008519701810437
+20170203DALPOR.txt,3,Perimeter shot with defender contact,0.3005249343832021
+20160123ATLPHO.txt,4,Drive or shot contested by defender,0.3004866180048661
+20161110CHIMIA.txt,6,Off-ball or weak-side contact,0.3004246284501061
+20170406WASNYK.txt,4,Drive or shot contested by defender,0.3003992015968064
+20160125CHASAC.txt,7,Post-play physical contact,0.2999465811965812
+20171226TORDAL.txt,10,Wing isolation or drive play,0.2998687664041995
+20171026ATLCHI.txt,11,General shooting foul situation,0.2998633879781421
+20160401ORLMIL.txt,3,Perimeter shot with defender contact,0.2998633879781421
+20170115DETLAL.txt,3,Perimeter shot with defender contact,0.2998366013071895
+20170308BKNATL.txt,10,Wing isolation or drive play,0.2998188405797101
+20161215INDNOP.txt,4,Drive or shot contested by defender,0.2997967479674797
+20150403OKCMEM.txt,5,Screen-related offensive contact,0.2997967479674797
+20170122DENMIN.txt,1,Shot attempt with incidental contact,0.2997512437810945
+20171021DETNYK.txt,3,Perimeter shot with defender contact,0.2992202729044834
+20180130MINTOR.txt,1,Shot attempt with incidental contact,0.2990956072351421
+20151202PHODET.txt,3,Perimeter shot with defender contact,0.2990867579908676
+20150301CLEHOU.txt,1,Shot attempt with incidental contact,0.2990591397849462
+20160102MEMUTA.txt,7,Post-play physical contact,0.2989766081871345
+20171225HOUOKC.txt,5,Screen-related offensive contact,0.2989296636085627
+20160316ATLDET.txt,3,Perimeter shot with defender contact,0.2986394557823129
+20161209HOUOKC.txt,5,Screen-related offensive contact,0.2985185185185185
+20170514SASGSW.txt,7,Post-play physical contact,0.2985185185185185
+20161220LALCHA.txt,9,Guard-driven shot with defensive pressure,0.2984234234234234
+20180210LALDAL.txt,6,Off-ball or weak-side contact,0.2983460559796438
+20171230MIAORL.txt,6,Off-ball or weak-side contact,0.2980480480480481
+20160205MILUTA.txt,0,Close-range contact near the basket,0.2979797979797979
+20171207OKCBKN.txt,10,Wing isolation or drive play,0.297940797940798
+20160311NOPMEM.txt,7,Post-play physical contact,0.2979225684608121
+20161121DALSAS.txt,7,Post-play physical contact,0.2978547854785478
+20180414NOPPOR.txt,4,Drive or shot contested by defender,0.2975490196078431
+20180315CHIMEM.txt,7,Post-play physical contact,0.297316384180791
+20161119GSWMIL.txt,6,Off-ball or weak-side contact,0.2970238095238095
+20171220SACBKN.txt,10,Wing isolation or drive play,0.2968605724838412
+20161204SACNYK.txt,7,Post-play physical contact,0.296844181459566
+20160122CHAORL.txt,9,Guard-driven shot with defensive pressure,0.2967479674796748
+20180311GSWMIN.txt,6,Off-ball or weak-side contact,0.296594982078853
+20171219CLEMIL.txt,9,Guard-driven shot with defensive pressure,0.296234772978959
+20171110MILSAS.txt,9,Guard-driven shot with defensive pressure,0.2962121212121212
+20171228MINMIL.txt,1,Shot attempt with incidental contact,0.2962003454231433
+20180401MILDEN.txt,9,Guard-driven shot with defensive pressure,0.2961469534050179
+20170121PORBOS.txt,11,General shooting foul situation,0.2960992907801418
+20180403BOSMIL.txt,9,Guard-driven shot with defensive pressure,0.2960618846694796
+20151223SACIND.txt,5,Screen-related offensive contact,0.2958333333333333
+20160112OKCMIN.txt,1,Shot attempt with incidental contact,0.2957610789980732
+20180205ORLMIA.txt,6,Off-ball or weak-side contact,0.2957175925925926
+20170125MIABKN.txt,10,Wing isolation or drive play,0.2956989247311828
+20160510OKCSAS.txt,5,Screen-related offensive contact,0.2953703703703703
+20180314WASBOS.txt,11,General shooting foul situation,0.2952473958333333
+20170306HOUSAS.txt,8,Marginal contact & non-call assessment,0.2951713395638629
+20180531CLEGSW.txt,1,Shot attempt with incidental contact,0.2950937950937951
+20180318OKCTOR.txt,10,Wing isolation or drive play,0.2950450450450451
+20151114DETLAC.txt,0,Close-range contact near the basket,0.2949735449735449
+20160127OKCMIN.txt,1,Shot attempt with incidental contact,0.2949346405228758
+20170406MINPOR.txt,3,Perimeter shot with defender contact,0.2947916666666667
+20151107MINCHI.txt,1,Shot attempt with incidental contact,0.2945578231292517
+20170307POROKC.txt,3,Perimeter shot with defender contact,0.294481981981982
+20151117CLEDET.txt,1,Shot attempt with incidental contact,0.2943840579710144
+20171208GSWDET.txt,6,Off-ball or weak-side contact,0.2942497753818509
+20180313MINWAS.txt,1,Shot attempt with incidental contact,0.2940860215053764
+20180319MEMBKN.txt,10,Wing isolation or drive play,0.2940841865756541
+20170427TORMIL.txt,10,Wing isolation or drive play,0.2940821256038647
+20160126MIABKN.txt,6,Off-ball or weak-side contact,0.294066317626527
+20180214MIAPHI.txt,9,Guard-driven shot with defensive pressure,0.2938751472320377
+20160108DALMIL.txt,9,Guard-driven shot with defensive pressure,0.2938218390804598
+20180316SACGSW.txt,7,Post-play physical contact,0.2937984496124031
+20150418WASTOR.txt,10,Wing isolation or drive play,0.2935823754789272
+20180314MIASAC.txt,7,Post-play physical contact,0.2935823754789272
+20170403PORMIN.txt,1,Shot attempt with incidental contact,0.2935435435435435
+20180306NOPLAC.txt,4,Drive or shot contested by defender,0.2934959349593495
+20180317DENMEM.txt,7,Post-play physical contact,0.2934959349593495
+20160329OKCDET.txt,5,Screen-related offensive contact,0.2934397163120567
+20151104TOROKC.txt,10,Wing isolation or drive play,0.2933723196881092
+20180303LALSAS.txt,6,Off-ball or weak-side contact,0.2933042212518195
+20161114MEMUTA.txt,0,Close-range contact near the basket,0.2932900432900432
+20180330MINDAL.txt,1,Shot attempt with incidental contact,0.2931488801054018
+20171204MINMEM.txt,1,Shot attempt with incidental contact,0.2931488801054018
+20160202MINLAL.txt,6,Off-ball or weak-side contact,0.2930790960451978
+20180405BKNMIL.txt,9,Guard-driven shot with defensive pressure,0.2929487179487179
+20161230MIABOS.txt,6,Off-ball or weak-side contact,0.2929042904290428
+20170329CHATOR.txt,10,Wing isolation or drive play,0.2929042904290428
+20160114SACUTA.txt,0,Close-range contact near the basket,0.292824074074074
+20171206SACCLE.txt,7,Post-play physical contact,0.2925790754257907
+20160220MILATL.txt,9,Guard-driven shot with defensive pressure,0.2924701561065198
+20171026LACPOR.txt,3,Perimeter shot with defender contact,0.2922979797979798
+20170303NYKPHI.txt,4,Drive or shot contested by defender,0.2922453703703704
+20170319BOSPHI.txt,11,General shooting foul situation,0.2921245421245421
+20151204HOUDAL.txt,2,Replay review and ruling outcome,0.2920711974110032
+20161220PORSAC.txt,3,Perimeter shot with defender contact,0.2919191919191919
+20151028LACSAC.txt,0,Close-range contact near the basket,0.2916666666666667
+20180122MINLAC.txt,1,Shot attempt with incidental contact,0.2916666666666667
+20171109PHISAC.txt,9,Guard-driven shot with defensive pressure,0.2916666666666667
+20170420CLEIND.txt,1,Shot attempt with incidental contact,0.2915006640106242
+20180212ORLCHI.txt,11,General shooting foul situation,0.2915006640106242
+20171120INDORL.txt,5,Screen-related offensive contact,0.2915006640106242
+20171201CHAMIA.txt,6,Off-ball or weak-side contact,0.2915006640106242
+20160105NYKATL.txt,2,Replay review and ruling outcome,0.2912186379928315
+20170404CHAWAS.txt,9,Guard-driven shot with defensive pressure,0.2910906298003072
+20151115MEMMIN.txt,7,Post-play physical contact,0.2910189982728842
+20171218MIAATL.txt,6,Off-ball or weak-side contact,0.290994623655914
+20180323DENWAS.txt,11,General shooting foul situation,0.290922619047619
+20161203BOSPHI.txt,9,Guard-driven shot with defensive pressure,0.2908333333333333
+20151231LACNOP.txt,4,Drive or shot contested by defender,0.2907196969696969
+20161230PHIDEN.txt,9,Guard-driven shot with defensive pressure,0.2906602254428341
+20160321MILDET.txt,9,Guard-driven shot with defensive pressure,0.2904761904761905
+20160427CHAMIA.txt,6,Off-ball or weak-side contact,0.2902523933855526
+20170315SACPHO.txt,4,Drive or shot contested by defender,0.2898894154818325
+20161211BOSOKC.txt,11,General shooting foul situation,0.2896613190730838
+20160226CHAIND.txt,9,Guard-driven shot with defensive pressure,0.2895299145299145
+20161028PHOOKC.txt,4,Drive or shot contested by defender,0.2894002789400279
+20170125TORMEM.txt,10,Wing isolation or drive play,0.2892628205128205
+20161028CLETOR.txt,10,Wing isolation or drive play,0.2892156862745098
+20151112UTAMIA.txt,0,Close-range contact near the basket,0.2892156862745098
+20171027DENATL.txt,2,Replay review and ruling outcome,0.2891498881431767
+20161106PORMEM.txt,7,Post-play physical contact,0.2890772128060263
+20171202SACMIL.txt,9,Guard-driven shot with defensive pressure,0.289039039039039
+20170321DETBKN.txt,10,Wing isolation or drive play,0.2888307155322862
+20160105SACDAL.txt,2,Replay review and ruling outcome,0.2887109077040427
+20171213PORMIA.txt,3,Perimeter shot with defender contact,0.2886178861788618
+20180403INDDEN.txt,5,Screen-related offensive contact,0.2882689556509299
+20170407MINUTA.txt,1,Shot attempt with incidental contact,0.2882136279926335
+20150401CHIMIL.txt,2,Replay review and ruling outcome,0.2879901960784313
+20180327PORNOP.txt,4,Drive or shot contested by defender,0.2877739331026528
+20171022MINOKC.txt,1,Shot attempt with incidental contact,0.2877252252252252
+20171215MIACHA.txt,9,Guard-driven shot with defensive pressure,0.2876230661040788
+20161030GSWPHO.txt,4,Drive or shot contested by defender,0.2876016260162601
+20161101SACMIA.txt,6,Off-ball or weak-side contact,0.2875243664717349
+20180103DETMIA.txt,6,Off-ball or weak-side contact,0.2872696817420435
+20171228PHIPOR.txt,9,Guard-driven shot with defensive pressure,0.2872582480091012
+20171024NOPPOR.txt,3,Perimeter shot with defender contact,0.2872168284789644
+20160422CLEDET.txt,1,Shot attempt with incidental contact,0.2872168284789644
+20180326NYKCHA.txt,9,Guard-driven shot with defensive pressure,0.2871878393051031
+20161116WASPHI.txt,9,Guard-driven shot with defensive pressure,0.2871674491392801
+20171020ORLBKN.txt,10,Wing isolation or drive play,0.2870778267254038
+20150325LALMIN.txt,1,Shot attempt with incidental contact,0.2870778267254038
+20150410DALDEN.txt,2,Replay review and ruling outcome,0.2869986168741356
+20151217OKCCLE.txt,1,Shot attempt with incidental contact,0.2869047619047619
+20180320HOUPOR.txt,3,Perimeter shot with defender contact,0.2868649318463445
+20160201DETBKN.txt,3,Perimeter shot with defender contact,0.2867965367965367
+20180211DETATL.txt,3,Perimeter shot with defender contact,0.2867564534231201
+20160206WASCHA.txt,9,Guard-driven shot with defensive pressure,0.2867063492063492
+20180109MIATOR.txt,6,Off-ball or weak-side contact,0.2862950058072009
+20150304LALMIA.txt,6,Off-ball or weak-side contact,0.2859078590785908
+20151202LALWAS.txt,6,Off-ball or weak-side contact,0.2859078590785908
+20161130NYKMIN.txt,1,Shot attempt with incidental contact,0.2858880778588807
+20150306LALMEM.txt,2,Replay review and ruling outcome,0.2858649789029536
+20160108OKCLAL.txt,6,Off-ball or weak-side contact,0.2858527131782946
+20160113NYKBKN.txt,10,Wing isolation or drive play,0.28584229390681
+20161116NOPORL.txt,4,Drive or shot contested by defender,0.2858376511226252
+20180110NOPMEM.txt,7,Post-play physical contact,0.285829307568438
+20170112NOPBKN.txt,4,Drive or shot contested by defender,0.2858255451713395
+20170322ATLWAS.txt,3,Perimeter shot with defender contact,0.2858220211161387
+20180204PORBOS.txt,11,General shooting foul situation,0.2858048162230672
+20180209MILMIA.txt,9,Guard-driven shot with defensive pressure,0.2853200883002207
+20171024BKNORL.txt,10,Wing isolation or drive play,0.2853107344632768
+20160324PORLAC.txt,0,Close-range contact near the basket,0.285230352303523
+20180112CLEIND.txt,5,Screen-related offensive contact,0.2851851851851852
+20180223SASDEN.txt,7,Post-play physical contact,0.2851500789889415
+20150331INDBKN.txt,5,Screen-related offensive contact,0.2849462365591397
+20161217CHAATL.txt,9,Guard-driven shot with defensive pressure,0.2849099099099099
+20160406HOUDAL.txt,2,Replay review and ruling outcome,0.2848958333333333
+20161223HOUMEM.txt,8,Marginal contact & non-call assessment,0.284869976359338
+20150304PHIOKC.txt,5,Screen-related offensive contact,0.2846666666666667
+20170312MIAIND.txt,6,Off-ball or weak-side contact,0.284636488340192
+20150415WASCLE.txt,1,Shot attempt with incidental contact,0.284570596797671
+20150303HOUATL.txt,2,Replay review and ruling outcome,0.2843642611683848
+20151111MILDEN.txt,9,Guard-driven shot with defensive pressure,0.2842003853564547
+20171220MINDEN.txt,11,General shooting foul situation,0.2840277777777778
+20180113DETCHI.txt,11,General shooting foul situation,0.2838888888888889
+20180505BOSPHI.txt,9,Guard-driven shot with defensive pressure,0.2837681159420289
+20171208CLEIND.txt,5,Screen-related offensive contact,0.2835917312661499
+20161029MINSAC.txt,1,Shot attempt with incidental contact,0.2833333333333334
+20170409MINLAL.txt,1,Shot attempt with incidental contact,0.2832585949177877
+20161130WASOKC.txt,5,Screen-related offensive contact,0.2832310838445808
+20150313ORLBOS.txt,3,Perimeter shot with defender contact,0.2832310838445808
+20151129DETBKN.txt,10,Wing isolation or drive play,0.283179012345679
+20161102LALATL.txt,6,Off-ball or weak-side contact,0.2829059829059829
+20180113GSWTOR.txt,10,Wing isolation or drive play,0.2829010566762728
+20160323UTAHOU.txt,0,Close-range contact near the basket,0.2828492392807745
+20150317SASNYK.txt,2,Replay review and ruling outcome,0.282719836400818
+20170127CHANYK.txt,4,Drive or shot contested by defender,0.2826887661141805
+20180202NYKMIL.txt,9,Guard-driven shot with defensive pressure,0.2824726134585289
+20171025TORGSW.txt,10,Wing isolation or drive play,0.282312925170068
+20150324MIAMIL.txt,2,Replay review and ruling outcome,0.2822916666666666
+20151130BOSMIA.txt,6,Off-ball or weak-side contact,0.2821350762527232
+20170131DENLAL.txt,11,General shooting foul situation,0.2819940476190476
+20160403CHIMIL.txt,9,Guard-driven shot with defensive pressure,0.281981981981982
+20160226WASPHI.txt,9,Guard-driven shot with defensive pressure,0.2816764132553606
+20171124DETOKC.txt,5,Screen-related offensive contact,0.2816301703163017
+20161111TORCHA.txt,10,Wing isolation or drive play,0.2815656565656566
+20170321MILPOR.txt,9,Guard-driven shot with defensive pressure,0.2814625850340136
+20161126MEMMIA.txt,6,Off-ball or weak-side contact,0.2813163481953291
+20171231DALOKC.txt,5,Screen-related offensive contact,0.2812971342383107
+20150423GSWNOP.txt,6,Off-ball or weak-side contact,0.2811653116531165
+20171107PHIUTA.txt,9,Guard-driven shot with defensive pressure,0.2810320781032078
+20180123BOSLAL.txt,6,Off-ball or weak-side contact,0.2809254013220019
+20180224LALSAC.txt,7,Post-play physical contact,0.2808535178777393
+20171216DALSAS.txt,7,Post-play physical contact,0.2807407407407407
+20170215MILBKN.txt,9,Guard-driven shot with defensive pressure,0.2805810397553516
+20180108DETNOP.txt,4,Drive or shot contested by defender,0.2805810397553516
+20160409OKCSAC.txt,5,Screen-related offensive contact,0.2805383022774327
+20170310WASSAC.txt,7,Post-play physical contact,0.2805212620027435
+20151218ATLBOS.txt,2,Replay review and ruling outcome,0.2804659498207885
+20180122PHIMEM.txt,7,Post-play physical contact,0.2803672316384181
+20170321SASMIN.txt,1,Shot attempt with incidental contact,0.2802607076350093
+20180524GSWHOU.txt,8,Marginal contact & non-call assessment,0.2802037845705968
+20150408PHODAL.txt,2,Replay review and ruling outcome,0.2800546448087431
+20170227MIADAL.txt,2,Replay review and ruling outcome,0.2800387596899225
+20170311MINMIL.txt,1,Shot attempt with incidental contact,0.2800338409475465
+20180208ATLORL.txt,3,Perimeter shot with defender contact,0.2800269905533064
+20180117DETTOR.txt,10,Wing isolation or drive play,0.2800269905533064
+20151103TORDAL.txt,0,Close-range contact near the basket,0.2797979797979797
+20150410INDDET.txt,5,Screen-related offensive contact,0.2797619047619047
+20180127CHAMIA.txt,6,Off-ball or weak-side contact,0.2797157622739018
+20171021PORMIL.txt,3,Perimeter shot with defender contact,0.2796852646638054
+20161102NOPMEM.txt,4,Drive or shot contested by defender,0.2796852646638054
+20160106DETBOS.txt,11,General shooting foul situation,0.2795893719806763
+20170110CHAHOU.txt,9,Guard-driven shot with defensive pressure,0.2795358649789029
+20160424ATLBOS.txt,11,General shooting foul situation,0.2795307443365696
+20171202MEMCLE.txt,1,Shot attempt with incidental contact,0.2792998477929985
+20150410MEMUTA.txt,2,Replay review and ruling outcome,0.2792494481236203
+20150609GSWCLE.txt,2,Replay review and ruling outcome,0.2791666666666667
+20161226MILWAS.txt,9,Guard-driven shot with defensive pressure,0.2790927021696252
+20151113LALDAL.txt,6,Off-ball or weak-side contact,0.2789351851851852
+20180131MEMIND.txt,7,Post-play physical contact,0.278856526429342
+20160401MIASAC.txt,7,Post-play physical contact,0.2788065843621399
+20171231CHIWAS.txt,11,General shooting foul situation,0.2788065843621399
+20170108WASMIL.txt,9,Guard-driven shot with defensive pressure,0.278588807785888
+20171203LACMIN.txt,1,Shot attempt with incidental contact,0.2783595113438045
+20171220MIABOS.txt,6,Off-ball or weak-side contact,0.2783564814814815
+20151125DALSAS.txt,2,Replay review and ruling outcome,0.2781531531531531
+20161208DENWAS.txt,11,General shooting foul situation,0.2781124497991967
+20160117INDDEN.txt,11,General shooting foul situation,0.278052805280528
+20150403NOPSAC.txt,7,Post-play physical contact,0.2777777777777778
+20160409GSWMEM.txt,6,Off-ball or weak-side contact,0.2777777777777778
+20180204LALOKC.txt,6,Off-ball or weak-side contact,0.2777777777777778
+20151106MIAIND.txt,6,Off-ball or weak-side contact,0.2777777777777777
+20160329HOUCLE.txt,1,Shot attempt with incidental contact,0.2775297619047619
+20180110UTAWAS.txt,8,Marginal contact & non-call assessment,0.2775080906148867
+20151028INDTOR.txt,5,Screen-related offensive contact,0.2774509803921569
+20151102PHOLAC.txt,0,Close-range contact near the basket,0.2774509803921569
+20171204DETSAS.txt,7,Post-play physical contact,0.2774358974358974
+20180116DALDEN.txt,11,General shooting foul situation,0.2773933102652826
+20170415INDCLE.txt,1,Shot attempt with incidental contact,0.2772194304857621
+20180122SACCHA.txt,7,Post-play physical contact,0.2769130998702983
+20161219ATLOKC.txt,5,Screen-related offensive contact,0.2768199233716475
+20170210INDWAS.txt,5,Screen-related offensive contact,0.2766830870279146
+20180222OKCSAC.txt,7,Post-play physical contact,0.2766830870279146
+20151225CLEGSW.txt,6,Off-ball or weak-side contact,0.2764797507788162
+20160328ATLCHI.txt,11,General shooting foul situation,0.2764797507788162
+20160328PHOMIN.txt,1,Shot attempt with incidental contact,0.2763605442176871
+20160318PHOLAL.txt,4,Drive or shot contested by defender,0.2761299435028249
+20170412SASUTA.txt,7,Post-play physical contact,0.2760416666666666
+20180214OKCMEM.txt,5,Screen-related offensive contact,0.275842044134727
+20161031DENTOR.txt,10,Wing isolation or drive play,0.2758215962441314
+20150408CHIORL.txt,2,Replay review and ruling outcome,0.2758215962441314
+20171210DENIND.txt,5,Screen-related offensive contact,0.2756944444444444
+20160316DALCLE.txt,1,Shot attempt with incidental contact,0.2756410256410256
+20171216PHOMIN.txt,1,Shot attempt with incidental contact,0.2756202804746494
+20180311CHIATL.txt,11,General shooting foul situation,0.2755644090305445
+20151207PORMIL.txt,9,Guard-driven shot with defensive pressure,0.2753267973856209
+20160309CLESAC.txt,1,Shot attempt with incidental contact,0.2751141552511415
+20170331ORLBOS.txt,3,Perimeter shot with defender contact,0.275089605734767
+20170228CHALAL.txt,9,Guard-driven shot with defensive pressure,0.275089605734767
+20160208PORMEM.txt,7,Post-play physical contact,0.2750544662309368
+20171216PORCHA.txt,9,Guard-driven shot with defensive pressure,0.2749737118822292
+20171018MIAORL.txt,6,Off-ball or weak-side contact,0.2749648382559775
+20171218PORMIN.txt,1,Shot attempt with incidental contact,0.2747747747747748
+20160203CHISAC.txt,7,Post-play physical contact,0.2746913580246913
+20180305PORLAL.txt,3,Perimeter shot with defender contact,0.2745614035087719
+20170305BOSPHO.txt,4,Drive or shot contested by defender,0.2745504840940526
+20170402MEMLAL.txt,7,Post-play physical contact,0.2742690058479532
+20171202DETPHI.txt,9,Guard-driven shot with defensive pressure,0.2742248062015504
+20180122PORDEN.txt,3,Perimeter shot with defender contact,0.2740885416666667
+20160110BOSMEM.txt,11,General shooting foul situation,0.2740324594257178
+20170212SASNYK.txt,4,Drive or shot contested by defender,0.2739837398373984
+20180421PHIMIA.txt,6,Off-ball or weak-side contact,0.2739808153477218
+20161106SACTOR.txt,10,Wing isolation or drive play,0.2738927738927739
+20151121NYKHOU.txt,4,Drive or shot contested by defender,0.2737373737373737
+20170205POROKC.txt,5,Screen-related offensive contact,0.2737373737373737
+20160206BKNPHI.txt,10,Wing isolation or drive play,0.2736742424242424
+20170521BOSCLE.txt,11,General shooting foul situation,0.2734848484848485
+20180228NOPSAS.txt,7,Post-play physical contact,0.2734487734487734
+20171202PHOBOS.txt,11,General shooting foul situation,0.2734159779614325
+20161205BOSHOU.txt,11,General shooting foul situation,0.2733585858585858
+20170107TORCHI.txt,10,Wing isolation or drive play,0.2730352303523035
+20180405MINDEN.txt,1,Shot attempt with incidental contact,0.2729988052568698
+20171113ATLNOP.txt,4,Drive or shot contested by defender,0.2726638772663877
+20171209ORLATL.txt,3,Perimeter shot with defender contact,0.2726608187134502
+20170110BOSTOR.txt,10,Wing isolation or drive play,0.2726574500768049
+20161206PHOUTA.txt,4,Drive or shot contested by defender,0.2726449275362319
+20170119MINLAC.txt,1,Shot attempt with incidental contact,0.2726269315673289
+20160306PHIMIA.txt,6,Off-ball or weak-side contact,0.2725856697819315
+20160223HOUUTA.txt,0,Close-range contact near the basket,0.2724601175482787
+20170408CHIBKN.txt,10,Wing isolation or drive play,0.2722908093278464
+20170324MINLAL.txt,6,Off-ball or weak-side contact,0.2722222222222222
+20150404UTAPHO.txt,0,Close-range contact near the basket,0.2720883534136546
+20150503WASATL.txt,2,Replay review and ruling outcome,0.2720430107526881
+20151123PHIMIN.txt,1,Shot attempt with incidental contact,0.2720430107526881
+20160123MEMMIN.txt,7,Post-play physical contact,0.2719907407407407
+20180204ATLNYK.txt,4,Drive or shot contested by defender,0.2718518518518518
+20161208PORMEM.txt,3,Perimeter shot with defender contact,0.2717569786535304
+20150408CLEMIL.txt,2,Replay review and ruling outcome,0.2715355805243445
+20160322HOUOKC.txt,5,Screen-related offensive contact,0.2715277777777778
+20170301DALATL.txt,2,Replay review and ruling outcome,0.2714701601164483
+20160112BOSNYK.txt,11,General shooting foul situation,0.2713963963963964
+20161123SASCHA.txt,9,Guard-driven shot with defensive pressure,0.2713365539452496
+20180117NOPATL.txt,2,Replay review and ruling outcome,0.271101573676681
+20151130OKCATL.txt,5,Screen-related offensive contact,0.271021021021021
+20180325POROKC.txt,3,Perimeter shot with defender contact,0.2707454289732771
+20161210PORIND.txt,5,Screen-related offensive contact,0.2707231040564374
+20170113MEMHOU.txt,8,Marginal contact & non-call assessment,0.2707231040564374
+20171130CLEATL.txt,1,Shot attempt with incidental contact,0.2705426356589147
+20160511MIATOR.txt,10,Wing isolation or drive play,0.2705426356589147
+20160307MEMCLE.txt,1,Shot attempt with incidental contact,0.2705026455026455
+20180126UTATOR.txt,10,Wing isolation or drive play,0.270293609671848
+20180103GSWDAL.txt,6,Off-ball or weak-side contact,0.2702898550724638
+20170405TORDET.txt,10,Wing isolation or drive play,0.2701822916666667
+20161112NYKTOR.txt,10,Wing isolation or drive play,0.2701149425287356
+20180328PORMEM.txt,3,Perimeter shot with defender contact,0.2699876998769988
+20170104MIASAC.txt,7,Post-play physical contact,0.2699805068226121
+20170408BOSCHA.txt,11,General shooting foul situation,0.2699430199430199
+20171018MILBOS.txt,9,Guard-driven shot with defensive pressure,0.2699430199430199
+20161122PORNYK.txt,4,Drive or shot contested by defender,0.2698717948717949
+20171107CHANYK.txt,4,Drive or shot contested by defender,0.2698717948717949
+20160205BOSCLE.txt,11,General shooting foul situation,0.2698056801195814
+20150319NOPPHO.txt,4,Drive or shot contested by defender,0.2697132616487455
+20161210DENORL.txt,11,General shooting foul situation,0.2697132616487455
+20180422TORWAS.txt,10,Wing isolation or drive play,0.269485903814262
+20150327CHAWAS.txt,9,Guard-driven shot with defensive pressure,0.2694585448392555
+20170129DALSAS.txt,7,Post-play physical contact,0.2691197691197691
+20151111LALORL.txt,2,Replay review and ruling outcome,0.2690631808278867
+20161103DENMIN.txt,11,General shooting foul situation,0.2690631808278867
+20180205CHISAC.txt,7,Post-play physical contact,0.2690156599552573
+20180201OKCDEN.txt,11,General shooting foul situation,0.268664563617245
+20161101LALIND.txt,5,Screen-related offensive contact,0.2684478371501272
+20180322LALNOP.txt,4,Drive or shot contested by defender,0.2682709447415329
+20160108INDNOP.txt,5,Screen-related offensive contact,0.2682648401826484
+20151116INDCHI.txt,5,Screen-related offensive contact,0.2682648401826484
+20161130SASDAL.txt,7,Post-play physical contact,0.2678883071553228
+20151106TORORL.txt,10,Wing isolation or drive play,0.2675925925925926
+20171218BOSIND.txt,5,Screen-related offensive contact,0.2675438596491228
+20171201SACCHI.txt,7,Post-play physical contact,0.2674603174603174
+20171227NYKCHI.txt,4,Drive or shot contested by defender,0.2674603174603174
+20170226PORTOR.txt,3,Perimeter shot with defender contact,0.2674074074074073
+20160223SACDEN.txt,11,General shooting foul situation,0.2672222222222222
+20151210PHIBKN.txt,10,Wing isolation or drive play,0.2668997668997669
+20161202WASSAS.txt,7,Post-play physical contact,0.2668593448940269
+20161218BOSMIA.txt,6,Off-ball or weak-side contact,0.2668308702791461
+20151216BOSDET.txt,11,General shooting foul situation,0.2668195718654434
+20171218PHODAL.txt,2,Replay review and ruling outcome,0.2667865707434053
+20180107NYKDAL.txt,4,Drive or shot contested by defender,0.266541822721598
+20180403GSWOKC.txt,5,Screen-related offensive contact,0.2665165165165165
+20180106CLEORL.txt,3,Perimeter shot with defender contact,0.2664930555555555
+20160114TORORL.txt,10,Wing isolation or drive play,0.2664930555555555
+20160229INDCLE.txt,5,Screen-related offensive contact,0.2664783427495292
+20160307SACNOP.txt,4,Drive or shot contested by defender,0.2664399092970521
+20171111CLEDAL.txt,1,Shot attempt with incidental contact,0.2662976629766297
+20171103BOSOKC.txt,5,Screen-related offensive contact,0.2662517289073305
+20180501CLETOR.txt,1,Shot attempt with incidental contact,0.2661411411411411
+20170201TORBOS.txt,10,Wing isolation or drive play,0.2659863945578231
+20160206OKCGSW.txt,6,Off-ball or weak-side contact,0.2659313725490196
+20170130ORLMIN.txt,1,Shot attempt with incidental contact,0.2658333333333333
+20170323LACDAL.txt,0,Close-range contact near the basket,0.2658333333333333
+20171029DETGSW.txt,6,Off-ball or weak-side contact,0.2657295850066934
+20151209MEMDET.txt,7,Post-play physical contact,0.2656862745098039
+20171028PHIDAL.txt,9,Guard-driven shot with defensive pressure,0.2656695156695156
+20160516OKCGSW.txt,5,Screen-related offensive contact,0.265547263681592
+20160304NYKBOS.txt,11,General shooting foul situation,0.2654320987654321
+20150307SACMIA.txt,7,Post-play physical contact,0.2650063856960409
+20180106MILWAS.txt,9,Guard-driven shot with defensive pressure,0.2649371069182389
+20170203MEMOKC.txt,7,Post-play physical contact,0.2648578811369509
+20170330HOUPOR.txt,8,Marginal contact & non-call assessment,0.2648054145516074
+20151114CLEMIL.txt,0,Close-range contact near the basket,0.2647593097184378
+20170118MEMWAS.txt,7,Post-play physical contact,0.2646396396396396
+20150324TORDET.txt,10,Wing isolation or drive play,0.2643939393939394
+20180503PHIBOS.txt,11,General shooting foul situation,0.2642956764295676
+20161105CLEPHI.txt,1,Shot attempt with incidental contact,0.2642543859649122
+20151130GSWUTA.txt,0,Close-range contact near the basket,0.2642543859649122
+20170123NYKIND.txt,4,Drive or shot contested by defender,0.2642543859649122
+20180102ATLPHO.txt,4,Drive or shot contested by defender,0.2642512077294686
+20170209BOSPOR.txt,11,General shooting foul situation,0.2641325536062378
+20180312SACOKC.txt,5,Screen-related offensive contact,0.2640350877192982
+20170120PORPHI.txt,3,Perimeter shot with defender contact,0.2639553429027113
+20151203OKCMIA.txt,6,Off-ball or weak-side contact,0.2638888888888889
+20171115DETMIL.txt,9,Guard-driven shot with defensive pressure,0.2638888888888889
+20151107HOULAC.txt,0,Close-range contact near the basket,0.2638888888888889
+20161201MIAUTA.txt,6,Off-ball or weak-side contact,0.2638095238095237
+20171026NOPSAC.txt,4,Drive or shot contested by defender,0.2638095238095237
+20150324PHISAC.txt,9,Guard-driven shot with defensive pressure,0.2638095238095237
+20160208ORLATL.txt,3,Perimeter shot with defender contact,0.2637426900584795
+20170203PHOSAC.txt,4,Drive or shot contested by defender,0.2635416666666667
+20170410WASDET.txt,3,Perimeter shot with defender contact,0.2635416666666667
+20171110BKNPOR.txt,10,Wing isolation or drive play,0.2633986928104575
+20160429MIACHA.txt,6,Off-ball or weak-side contact,0.2632058287795992
+20160121MEMDEN.txt,11,General shooting foul situation,0.2628635346756152
+20151108INDCLE.txt,5,Screen-related offensive contact,0.2628635346756152
+20180505TORCLE.txt,10,Wing isolation or drive play,0.2627688172043011
+20151201DALPOR.txt,3,Perimeter shot with defender contact,0.2627365356622998
+20170320DENHOU.txt,11,General shooting foul situation,0.2625968992248061
+20151218SACMIN.txt,1,Shot attempt with incidental contact,0.2625272331154684
+20180103MINBKN.txt,10,Wing isolation or drive play,0.2625133120340788
+20180330NOPCLE.txt,4,Drive or shot contested by defender,0.2622324159021406
+20171209NYKCHI.txt,11,General shooting foul situation,0.2621794871794872
+20180117DENLAC.txt,11,General shooting foul situation,0.2621794871794872
+20160225HOUPOR.txt,3,Perimeter shot with defender contact,0.2619047619047619
+20150316OKCDAL.txt,5,Screen-related offensive contact,0.2619047619047619
+20180203UTASAS.txt,7,Post-play physical contact,0.2617994100294985
+20170313ORLSAC.txt,7,Post-play physical contact,0.2617753623188406
+20170326SACLAC.txt,7,Post-play physical contact,0.2617753623188406
+20180317ATLMIL.txt,9,Guard-driven shot with defensive pressure,0.2617135207496653
+20170302GSWCHI.txt,6,Off-ball or weak-side contact,0.2616747181964573
+20171110CHABOS.txt,11,General shooting foul situation,0.2615303983228512
+20170328MIADET.txt,6,Off-ball or weak-side contact,0.2614734299516908
+20150312CLESAS.txt,1,Shot attempt with incidental contact,0.2614269788182832
+20151230LALBOS.txt,6,Off-ball or weak-side contact,0.2614155251141552
+20150322DALPHO.txt,4,Drive or shot contested by defender,0.261348897535668
+20171105OKCPOR.txt,5,Screen-related offensive contact,0.261348897535668
+20150307MEMNOP.txt,7,Post-play physical contact,0.2613412228796844
+20170103MINPHI.txt,1,Shot attempt with incidental contact,0.261111111111111
+20151212BOSCHA.txt,9,Guard-driven shot with defensive pressure,0.261111111111111
+20161202SACBOS.txt,11,General shooting foul situation,0.2610544217687074
+20160207DENNYK.txt,11,General shooting foul situation,0.2610350076103501
+20160204NYKDET.txt,4,Drive or shot contested by defender,0.2608142493638676
+20151028WASORL.txt,3,Perimeter shot with defender contact,0.2608142493638676
+20180105CHIDAL.txt,11,General shooting foul situation,0.2605555555555556
+20161201DALCHA.txt,9,Guard-driven shot with defensive pressure,0.260548523206751
+20160224MINTOR.txt,1,Shot attempt with incidental contact,0.2604938271604938
+20180424SASGSW.txt,6,Off-ball or weak-side contact,0.2604617604617604
+20180214CHAORL.txt,9,Guard-driven shot with defensive pressure,0.2602420856610801
+20160219MINMEM.txt,1,Shot attempt with incidental contact,0.2599067599067599
+20170224PHOCHI.txt,4,Drive or shot contested by defender,0.2598204264870932
+20160508CLEATL.txt,2,Replay review and ruling outcome,0.2597292724196277
+20151109PORDEN.txt,11,General shooting foul situation,0.2596371882086167
+20150312MILIND.txt,2,Replay review and ruling outcome,0.2596244131455399
+20160203MIADAL.txt,6,Off-ball or weak-side contact,0.2593818984547461
+20170110CHIWAS.txt,11,General shooting foul situation,0.2593818984547461
+20151117TORGSW.txt,10,Wing isolation or drive play,0.2593495934959349
+20180403SASLAC.txt,7,Post-play physical contact,0.2592008412197686
+20171106BOSATL.txt,11,General shooting foul situation,0.259180790960452
+20160113GSWDEN.txt,6,Off-ball or weak-side contact,0.259170653907496
+20170308CHIORL.txt,11,General shooting foul situation,0.2591575091575091
+20150331GSWLAC.txt,0,Close-range contact near the basket,0.258998435054773
+20151101ATLCHA.txt,0,Close-range contact near the basket,0.2589098532494758
+20170110MILSAS.txt,7,Post-play physical contact,0.2588383838383838
+20161120TORSAC.txt,10,Wing isolation or drive play,0.2587878787878788
+20160120ATLPOR.txt,2,Replay review and ruling outcome,0.2587719298245614
+20180227LACDEN.txt,0,Close-range contact near the basket,0.2585910652920962
+20151207PHOCHI.txt,4,Drive or shot contested by defender,0.258578431372549
+20160221INDORL.txt,5,Screen-related offensive contact,0.2584830339321357
+20150329PHICLE.txt,1,Shot attempt with incidental contact,0.2584830339321357
+20151205GSWTOR.txt,10,Wing isolation or drive play,0.2583333333333333
+20160205MIACHA.txt,9,Guard-driven shot with defensive pressure,0.2582508250825082
+20180315NOPSAS.txt,7,Post-play physical contact,0.2582260371959942
+20161203MINCHA.txt,9,Guard-driven shot with defensive pressure,0.2581018518518518
+20180606GSWCLE.txt,1,Shot attempt with incidental contact,0.2580952380952381
+20170419ATLWAS.txt,2,Replay review and ruling outcome,0.2580952380952381
+20170129GSWPOR.txt,3,Perimeter shot with defender contact,0.2578231292517006
+20171121CHILAL.txt,11,General shooting foul situation,0.2577380952380952
+20160224DENLAC.txt,0,Close-range contact near the basket,0.2576754385964912
+20180127ORLIND.txt,5,Screen-related offensive contact,0.2575231481481481
+20170104MEMLAC.txt,7,Post-play physical contact,0.2574786324786324
+20171215ATLMEM.txt,7,Post-play physical contact,0.2574578469520104
+20170416ATLWAS.txt,3,Perimeter shot with defender contact,0.2574171029668411
+20170324NOPHOU.txt,4,Drive or shot contested by defender,0.2572916666666666
+20180127DALDEN.txt,11,General shooting foul situation,0.2572649572649572
+20171216LACMIA.txt,6,Off-ball or weak-side contact,0.2571251548946716
+20180424MILBOS.txt,11,General shooting foul situation,0.2570028011204481
+20171208BOSSAS.txt,7,Post-play physical contact,0.2569786535303776
+20160108NYKSAS.txt,7,Post-play physical contact,0.256892230576441
+20171119DETMIN.txt,3,Perimeter shot with defender contact,0.2568870523415978
+20180126LALCHI.txt,6,Off-ball or weak-side contact,0.2567140600315956
+20161220BOSMEM.txt,7,Post-play physical contact,0.2566320645905421
+20161212PORLAC.txt,3,Perimeter shot with defender contact,0.2565891472868217
+20180211SACMIN.txt,1,Shot attempt with incidental contact,0.2561728395061728
+20170105OKCHOU.txt,5,Screen-related offensive contact,0.2558386411889596
+20180406ATLWAS.txt,3,Perimeter shot with defender contact,0.2556440903054449
+20160309NOPCHA.txt,4,Drive or shot contested by defender,0.2555555555555555
+20160321MEMPHO.txt,4,Drive or shot contested by defender,0.255503144654088
+20180406CLEPHI.txt,9,Guard-driven shot with defensive pressure,0.2554697554697555
+20170102OKCMIL.txt,9,Guard-driven shot with defensive pressure,0.2554240631163708
+20180228INDATL.txt,5,Screen-related offensive contact,0.2554012345679012
+20151209ORLPHO.txt,4,Drive or shot contested by defender,0.2553058676654182
+20170107UTAMIN.txt,1,Shot attempt with incidental contact,0.2551282051282051
+20160425MIACHA.txt,6,Off-ball or weak-side contact,0.2551169590643274
+20151124CHIPOR.txt,3,Perimeter shot with defender contact,0.2550644567219152
+20161111LACOKC.txt,5,Screen-related offensive contact,0.2549751243781094
+20160311MINOKC.txt,1,Shot attempt with incidental contact,0.2549549549549549
+20160107LALSAC.txt,7,Post-play physical contact,0.2548500881834215
+20160118BOSDAL.txt,11,General shooting foul situation,0.2548022598870056
+20161216BKNORL.txt,3,Perimeter shot with defender contact,0.2547495682210708
+20160123DETDEN.txt,11,General shooting foul situation,0.254653130287648
+20170405OKCMEM.txt,5,Screen-related offensive contact,0.2546296296296296
+20170119WASNYK.txt,4,Drive or shot contested by defender,0.2545605306799336
+20180222PHICHI.txt,11,General shooting foul situation,0.2545572916666667
+20160511PORGSW.txt,6,Off-ball or weak-side contact,0.2544715447154471
+20180422BOSMIL.txt,9,Guard-driven shot with defensive pressure,0.2543035993740219
+20151127CLECHA.txt,1,Shot attempt with incidental contact,0.2542194092827004
+20161115BKNLAL.txt,10,Wing isolation or drive play,0.2541152263374485
+20171203ORLNYK.txt,3,Perimeter shot with defender contact,0.2537414965986394
+20180303MEMORL.txt,7,Post-play physical contact,0.2535667963683528
+20170102CHACHI.txt,9,Guard-driven shot with defensive pressure,0.2535087719298246
+20151223HOUORL.txt,3,Perimeter shot with defender contact,0.2531285551763367
+20170110DETSAC.txt,3,Perimeter shot with defender contact,0.2530864197530864
+20161223DALLAC.txt,0,Close-range contact near the basket,0.2528344671201813
+20170412DALMEM.txt,7,Post-play physical contact,0.2526205450733752
+20151109MEMLAC.txt,7,Post-play physical contact,0.2525562372188139
+20171017BOSCLE.txt,11,General shooting foul situation,0.2525445292620865
+20160321GSWMIN.txt,1,Shot attempt with incidental contact,0.2523277467411545
+20161225GSWCLE.txt,6,Off-ball or weak-side contact,0.2522768670309653
+20160330NYKDAL.txt,4,Drive or shot contested by defender,0.2522371364653244
+20171201NOPUTA.txt,4,Drive or shot contested by defender,0.2520938023450586
+20180117MIAMIL.txt,9,Guard-driven shot with defensive pressure,0.2520525451559934
+20160331CHIHOU.txt,11,General shooting foul situation,0.2518037518037518
+20160115MIADEN.txt,11,General shooting foul situation,0.2517361111111111
+20151201MEMNOP.txt,4,Drive or shot contested by defender,0.2515432098765432
+20171105ATLCLE.txt,1,Shot attempt with incidental contact,0.2513935340022297
+20151113CLENYK.txt,4,Drive or shot contested by defender,0.2513440860215054
+20170209UTADAL.txt,2,Replay review and ruling outcome,0.2513061650992685
+20170113BOSATL.txt,11,General shooting foul situation,0.2511261261261261
+20150414TORBOS.txt,10,Wing isolation or drive play,0.2511261261261261
+20160223BKNPOR.txt,10,Wing isolation or drive play,0.2508503401360544
+20151208ORLDEN.txt,11,General shooting foul situation,0.2508333333333333
+20160309MIAMIL.txt,9,Guard-driven shot with defensive pressure,0.250801282051282
+20151204PHOWAS.txt,4,Drive or shot contested by defender,0.2507861635220125
+20150404BOSTOR.txt,11,General shooting foul situation,0.2507440476190476
+20150407GSWNOP.txt,6,Off-ball or weak-side contact,0.2507183908045977
+20171117CHACHI.txt,11,General shooting foul situation,0.2506720430107527
+20171223PORLAL.txt,3,Perimeter shot with defender contact,0.2496757457846952
+20161108DENMEM.txt,11,General shooting foul situation,0.2496360989810771
+20151125ATLMIN.txt,1,Shot attempt with incidental contact,0.2496229260935143
+20151222DETMIA.txt,6,Off-ball or weak-side contact,0.2495769881556683
+20160314MINPHO.txt,1,Shot attempt with incidental contact,0.2495291902071563
+20160302OKCLAC.txt,5,Screen-related offensive contact,0.2495183044315992
+20151209SASTOR.txt,10,Wing isolation or drive play,0.2495183044315992
+20170130BKNMIA.txt,10,Wing isolation or drive play,0.2495069033530572
+20151113PORMEM.txt,3,Perimeter shot with defender contact,0.2494407158836689
+20171117PORSAC.txt,3,Perimeter shot with defender contact,0.2486876640419947
+20171103INDPHI.txt,5,Screen-related offensive contact,0.2484984984984984
+20160226CLETOR.txt,10,Wing isolation or drive play,0.24812734082397
+20151102MILBKN.txt,9,Guard-driven shot with defensive pressure,0.2478354978354978
+20170228GSWWAS.txt,3,Perimeter shot with defender contact,0.2476525821596244
+20180108ATLLAC.txt,0,Close-range contact near the basket,0.2474593495934959
+20180403CHACHI.txt,9,Guard-driven shot with defensive pressure,0.2473841554559043
+20180324LALMEM.txt,7,Post-play physical contact,0.2473841554559043
+20170127MEMPOR.txt,7,Post-play physical contact,0.2470686767169179
+20161226PHISAC.txt,9,Guard-driven shot with defensive pressure,0.2469458987783595
+20150325PORUTA.txt,0,Close-range contact near the basket,0.2466666666666666
+20161226CHABKN.txt,10,Wing isolation or drive play,0.246588693957115
+20160113INDBOS.txt,5,Screen-related offensive contact,0.2464212678936605
+20180122PHOMIL.txt,4,Drive or shot contested by defender,0.2461419753086419
+20180307MEMCHI.txt,11,General shooting foul situation,0.2459150326797385
+20180117NYKMEM.txt,4,Drive or shot contested by defender,0.2453703703703703
+20151231PHOOKC.txt,5,Screen-related offensive contact,0.2453703703703703
+20160125HOUNOP.txt,4,Drive or shot contested by defender,0.2451550387596899
+20170203INDBKN.txt,5,Screen-related offensive contact,0.2450396825396825
+20171115UTANYK.txt,4,Drive or shot contested by defender,0.2450396825396825
+20161212WASMIA.txt,6,Off-ball or weak-side contact,0.2447447447447447
+20170410UTAGSW.txt,6,Off-ball or weak-side contact,0.2446581196581196
+20170331WASUTA.txt,0,Close-range contact near the basket,0.2446102819237147
+20161201ORLMEM.txt,7,Post-play physical contact,0.2445008460236886
+20171221CHICLE.txt,1,Shot attempt with incidental contact,0.2444903581267217
+20171115INDMEM.txt,7,Post-play physical contact,0.2442424242424242
+20160108DENMEM.txt,7,Post-play physical contact,0.2442129629629629
+20161214INDMIA.txt,6,Off-ball or weak-side contact,0.2441441441441441
+20151230INDCHI.txt,5,Screen-related offensive contact,0.2441002949852507
+20161205SASMIL.txt,9,Guard-driven shot with defensive pressure,0.2438725490196078
+20151030CHIDET.txt,3,Perimeter shot with defender contact,0.2437379576107899
+20151106DETPHO.txt,3,Perimeter shot with defender contact,0.2436868686868686
+20161030SASMIA.txt,7,Post-play physical contact,0.2434895833333333
+20151230PHISAC.txt,7,Post-play physical contact,0.2434343434343434
+20170407SACLAL.txt,7,Post-play physical contact,0.2432659932659932
+20171020SACDAL.txt,7,Post-play physical contact,0.2431457431457431
+20150319UTALAL.txt,0,Close-range contact near the basket,0.2430555555555555
+20161203LALMEM.txt,7,Post-play physical contact,0.2426739926739926
+20171023WASDEN.txt,11,General shooting foul situation,0.2426356589147286
+20150327BOSNYK.txt,4,Drive or shot contested by defender,0.2425287356321838
+20151223NYKCLE.txt,1,Shot attempt with incidental contact,0.2425287356321838
+20150322DETBOS.txt,3,Perimeter shot with defender contact,0.2423795476892822
+20151114BKNGSW.txt,6,Off-ball or weak-side contact,0.2423687423687424
+20150425MEMPOR.txt,7,Post-play physical contact,0.2423611111111111
+20160112NOPLAL.txt,4,Drive or shot contested by defender,0.2423371647509578
+20161220SASHOU.txt,7,Post-play physical contact,0.2420435510887772
+20180302DALCHI.txt,11,General shooting foul situation,0.2417102966841186
+20180304NYKSAC.txt,7,Post-play physical contact,0.2416666666666666
+20151228PHIUTA.txt,9,Guard-driven shot with defensive pressure,0.2416666666666666
+20170210ATLSAC.txt,7,Post-play physical contact,0.2416666666666666
+20161226TORPOR.txt,10,Wing isolation or drive play,0.2413419913419913
+20151209ATLDAL.txt,2,Replay review and ruling outcome,0.2413419913419913
+20180425INDCLE.txt,1,Shot attempt with incidental contact,0.2412095639943741
+20171023TORSAS.txt,10,Wing isolation or drive play,0.2409523809523809
+20151206PHOMEM.txt,4,Drive or shot contested by defender,0.2408333333333333
+20160207ATLORL.txt,3,Perimeter shot with defender contact,0.2408136482939632
+20160221MEMTOR.txt,10,Wing isolation or drive play,0.2407407407407407
+20160318PORNOP.txt,4,Drive or shot contested by defender,0.2406462585034013
+20171107MEMPOR.txt,7,Post-play physical contact,0.240358126721763
+20161223GSWDET.txt,3,Perimeter shot with defender contact,0.240049751243781
+20171215CHIMIL.txt,9,Guard-driven shot with defensive pressure,0.2400318979266347
+20161231PHOUTA.txt,0,Close-range contact near the basket,0.2400318979266347
+20170106PHIBOS.txt,11,General shooting foul situation,0.2397849462365591
+20170121SACCHI.txt,7,Post-play physical contact,0.2392676767676767
+20170101PORMIN.txt,3,Perimeter shot with defender contact,0.2392055267702936
+20151221CHAHOU.txt,9,Guard-driven shot with defensive pressure,0.2391910739191073
+20151118DALBOS.txt,2,Replay review and ruling outcome,0.2390873015873015
+20151210NYKSAC.txt,4,Drive or shot contested by defender,0.2390873015873015
+20151116DALPHI.txt,9,Guard-driven shot with defensive pressure,0.2390710382513661
+20150429BKNATL.txt,2,Replay review and ruling outcome,0.2388211382113821
+20180401SACLAL.txt,7,Post-play physical contact,0.2388167388167388
+20171101PORUTA.txt,3,Perimeter shot with defender contact,0.2385752688172042
+20160114CHIPHI.txt,11,General shooting foul situation,0.2384898710865561
+20150302GSWBKN.txt,2,Replay review and ruling outcome,0.2382716049382716
+20151117ATLBKN.txt,10,Wing isolation or drive play,0.2382297551789077
+20160408SASDEN.txt,7,Post-play physical contact,0.237984496124031
+20161223MIANOP.txt,6,Off-ball or weak-side contact,0.237913486005089
+20150315DENNOP.txt,11,General shooting foul situation,0.2377112135176651
+20161130LALCHI.txt,6,Off-ball or weak-side contact,0.2375201288244766
+20160302NOPHOU.txt,8,Marginal contact & non-call assessment,0.2371794871794871
+20160120BOSTOR.txt,10,Wing isolation or drive play,0.2370600414078675
+20160227MINNOP.txt,1,Shot attempt with incidental contact,0.2369047619047619
+20161109DETPHO.txt,4,Drive or shot contested by defender,0.2367521367521367
+20160413SASDAL.txt,7,Post-play physical contact,0.2366352201257861
+20151128BKNCLE.txt,10,Wing isolation or drive play,0.2363095238095238
+20170410SASPOR.txt,3,Perimeter shot with defender contact,0.2360482654600301
+20160103CHITOR.txt,10,Wing isolation or drive play,0.2358834244080145
+20150307WASMIL.txt,9,Guard-driven shot with defensive pressure,0.2357357357357357
+20150415MIAPHI.txt,2,Replay review and ruling outcome,0.23559670781893
+20150424TORWAS.txt,10,Wing isolation or drive play,0.2355679702048417
+20150604CLEGSW.txt,6,Off-ball or weak-side contact,0.2355442176870748
+20161119CHILAC.txt,0,Close-range contact near the basket,0.2352430555555555
+20160422ATLBOS.txt,11,General shooting foul situation,0.235224586288416
+20161223OKCBOS.txt,11,General shooting foul situation,0.2347222222222222
+20160321SACCHI.txt,7,Post-play physical contact,0.2346014492753623
+20180111LACSAC.txt,0,Close-range contact near the basket,0.2340277777777777
+20170128SACCHA.txt,7,Post-play physical contact,0.2340182648401826
+20171209PHICLE.txt,9,Guard-driven shot with defensive pressure,0.2339015151515151
+20151201ORLMIN.txt,3,Perimeter shot with defender contact,0.2336860670194003
+20151030CHAATL.txt,9,Guard-driven shot with defensive pressure,0.2335680751173708
+20171221MEMPHO.txt,4,Drive or shot contested by defender,0.2334605597964376
+20160229MEMDEN.txt,11,General shooting foul situation,0.2331649831649831
+20150311ORLMIL.txt,2,Replay review and ruling outcome,0.2330917874396135
+20150408ATLBKN.txt,2,Replay review and ruling outcome,0.2330246913580247
+20151220NOPDEN.txt,4,Drive or shot contested by defender,0.2327235772357723
+20160116BOSWAS.txt,11,General shooting foul situation,0.2326892109500805
+20160402DETCHI.txt,3,Perimeter shot with defender contact,0.2325800376647834
+20171105MEMLAL.txt,8,Marginal contact & non-call assessment,0.232487922705314
+20160206LALSAS.txt,6,Off-ball or weak-side contact,0.2324263038548752
+20151118BKNCHA.txt,0,Close-range contact near the basket,0.2321772639691714
+20160107UTAHOU.txt,0,Close-range contact near the basket,0.2318376068376068
+20150306PHOBKN.txt,4,Drive or shot contested by defender,0.2315233785822021
+20170208DENATL.txt,2,Replay review and ruling outcome,0.231359649122807
+20161030WASMEM.txt,3,Perimeter shot with defender contact,0.2308641975308642
+20161218LACWAS.txt,0,Close-range contact near the basket,0.2308429118773946
+20150510CLECHI.txt,1,Shot attempt with incidental contact,0.2308429118773946
+20150410TORORL.txt,10,Wing isolation or drive play,0.230324074074074
+20151205ORLLAC.txt,0,Close-range contact near the basket,0.2301587301587301
+20150424HOUDAL.txt,2,Replay review and ruling outcome,0.2299196787148594
+20180320ATLUTA.txt,0,Close-range contact near the basket,0.2299077733860342
+20170203MILDEN.txt,11,General shooting foul situation,0.2296099290780141
+20160126ORLMIL.txt,9,Guard-driven shot with defensive pressure,0.2291666666666666
+20151111NYKCHA.txt,2,Replay review and ruling outcome,0.2289644012944983
+20161227MEMBOS.txt,7,Post-play physical contact,0.2287878787878788
+20180420CLEIND.txt,8,Marginal contact & non-call assessment,0.2287037037037037
+20151211WASNOP.txt,4,Drive or shot contested by defender,0.2285429141716566
+20161116DALBOS.txt,11,General shooting foul situation,0.2285353535353535
+20180418INDCLE.txt,5,Screen-related offensive contact,0.228422619047619
+20160116SACLAC.txt,0,Close-range contact near the basket,0.2282913165266106
+20161101MILNOP.txt,4,Drive or shot contested by defender,0.2282913165266106
+20161228BKNCHI.txt,11,General shooting foul situation,0.2281831187410586
+20151222LALDEN.txt,11,General shooting foul situation,0.2279279279279279
+20180403SACPHO.txt,7,Post-play physical contact,0.2277556440903054
+20170102WASHOU.txt,8,Marginal contact & non-call assessment,0.2275362318840579
+20151226MIAORL.txt,6,Off-ball or weak-side contact,0.2275362318840579
+20150403DETCHI.txt,3,Perimeter shot with defender contact,0.2274633123689727
+20171101ORLMEM.txt,3,Perimeter shot with defender contact,0.2274074074074074
+20151220ATLORL.txt,2,Replay review and ruling outcome,0.2271689497716894
+20170308UTAHOU.txt,8,Marginal contact & non-call assessment,0.2269303201506591
+20170120UTADAL.txt,0,Close-range contact near the basket,0.2266865079365079
+20161121ORLMIL.txt,9,Guard-driven shot with defensive pressure,0.2265258215962441
+20150512CHICLE.txt,1,Shot attempt with incidental contact,0.2264957264957265
+20180222WASCLE.txt,1,Shot attempt with incidental contact,0.2264011799410029
+20160313MILBKN.txt,10,Wing isolation or drive play,0.2263888888888889
+20160411CHINOP.txt,4,Drive or shot contested by defender,0.2263071895424836
+20151104BOSIND.txt,5,Screen-related offensive contact,0.2260416666666666
+20161229MIACHA.txt,9,Guard-driven shot with defensive pressure,0.2258454106280193
+20171225CLEGSW.txt,6,Off-ball or weak-side contact,0.2255351681957186
+20151205CHACHI.txt,9,Guard-driven shot with defensive pressure,0.2254901960784313
+20160204HOUPHO.txt,4,Drive or shot contested by defender,0.2254273504273504
+20160210SASORL.txt,3,Perimeter shot with defender contact,0.2249417249417249
+20150305OKCCHI.txt,5,Screen-related offensive contact,0.2248263888888888
+20161025UTAPOR.txt,3,Perimeter shot with defender contact,0.2247807017543859
+20161226DENLAC.txt,11,General shooting foul situation,0.2245179063360881
+20180123SACORL.txt,8,Marginal contact & non-call assessment,0.2245053272450532
+20180417NOPPOR.txt,4,Drive or shot contested by defender,0.2244152046783625
+20171018PHIWAS.txt,9,Guard-driven shot with defensive pressure,0.2241100323624595
+20160331DENNOP.txt,11,General shooting foul situation,0.2240310077519379
+20180305MILIND.txt,9,Guard-driven shot with defensive pressure,0.2238912732474964
+20170128BOSMIL.txt,9,Guard-driven shot with defensive pressure,0.2236614853195164
+20171122DALMEM.txt,2,Replay review and ruling outcome,0.2234352256186317
+20150508CLECHI.txt,1,Shot attempt with incidental contact,0.2233796296296296
+20151028UTADET.txt,3,Perimeter shot with defender contact,0.2229437229437229
+20170104MILNYK.txt,9,Guard-driven shot with defensive pressure,0.2228835978835978
+20150411TORMIA.txt,6,Off-ball or weak-side contact,0.2226775956284153
+20170213ORLMIA.txt,6,Off-ball or weak-side contact,0.2225738396624472
+20160326PHIPOR.txt,3,Perimeter shot with defender contact,0.2225378787878787
+20171218DENOKC.txt,11,General shooting foul situation,0.2225225225225225
+20150315CHIOKC.txt,5,Screen-related offensive contact,0.2219430485762143
+20150301NOPDEN.txt,4,Drive or shot contested by defender,0.2218390804597701
+20160206CHIMIN.txt,11,General shooting foul situation,0.2218137254901961
+20170305NOPLAL.txt,6,Off-ball or weak-side contact,0.2218137254901961
+20160219MIAATL.txt,6,Off-ball or weak-side contact,0.2217847769028871
+20161114BOSNOP.txt,11,General shooting foul situation,0.2214714714714714
+20171127LALLAC.txt,6,Off-ball or weak-side contact,0.2214397496087636
+20150411NYKORL.txt,2,Replay review and ruling outcome,0.2209480122324159
+20151208HOUBKN.txt,0,Close-range contact near the basket,0.2206959706959707
+20171218PHICHI.txt,11,General shooting foul situation,0.2206165703275529
+20161230CHIIND.txt,5,Screen-related offensive contact,0.2201946472019464
+20180317CLECHI.txt,11,General shooting foul situation,0.2201426024955436
+20160108MIAPHO.txt,6,Off-ball or weak-side contact,0.2198879551820728
+20161026HOULAL.txt,6,Off-ball or weak-side contact,0.2196969696969697
+20151212LACBKN.txt,0,Close-range contact near the basket,0.2196467991169977
+20160219SASLAL.txt,7,Post-play physical contact,0.2194719471947195
+20170214SACLAL.txt,7,Post-play physical contact,0.2193798449612403
+20151117CHANYK.txt,4,Drive or shot contested by defender,0.2192982456140351
+20150330HOUTOR.txt,10,Wing isolation or drive play,0.2192982456140351
+20160106DENMIN.txt,1,Shot attempt with incidental contact,0.219017094017094
+20160113MILWAS.txt,9,Guard-driven shot with defensive pressure,0.2188405797101449
+20150320INDCLE.txt,1,Shot attempt with incidental contact,0.2180555555555555
+20150309NOPMIL.txt,2,Replay review and ruling outcome,0.2176220806794055
+20160320ORLTOR.txt,10,Wing isolation or drive play,0.2173423423423423
+20170202ATLHOU.txt,8,Marginal contact & non-call assessment,0.2173333333333333
+20160321SASCHA.txt,9,Guard-driven shot with defensive pressure,0.2171717171717171
+20161113ORLOKC.txt,5,Screen-related offensive contact,0.2170263788968825
+20151130SASCHI.txt,11,General shooting foul situation,0.2168560606060605
+20150327PORPHO.txt,3,Perimeter shot with defender contact,0.2168458781362007
+20160112CHIMIL.txt,11,General shooting foul situation,0.2166666666666666
+20151226MEMCHA.txt,9,Guard-driven shot with defensive pressure,0.2166666666666666
+20150415ATLCHI.txt,11,General shooting foul situation,0.2165109034267913
+20161205WASBKN.txt,10,Wing isolation or drive play,0.2162534435261708
+20151120CHIGSW.txt,6,Off-ball or weak-side contact,0.2162534435261708
+20150405PHINYK.txt,9,Guard-driven shot with defensive pressure,0.2160852713178294
+20151205BOSSAS.txt,7,Post-play physical contact,0.2158836689038031
+20180509PHIBOS.txt,11,General shooting foul situation,0.2156511350059737
+20160301BKNLAL.txt,10,Wing isolation or drive play,0.2156308851224105
+20151125PHIBOS.txt,11,General shooting foul situation,0.2156084656084656
+20170105ATLNOP.txt,2,Replay review and ruling outcome,0.2153679653679653
+20150325PHIDEN.txt,11,General shooting foul situation,0.2152777777777777
+20150329DALIND.txt,2,Replay review and ruling outcome,0.2148846960167715
+20160317WASPHI.txt,9,Guard-driven shot with defensive pressure,0.2140974967061923
+20160304PORTOR.txt,2,Replay review and ruling outcome,0.2140255009107468
+20151122DALOKC.txt,5,Screen-related offensive contact,0.2135416666666666
+20160313NYKLAL.txt,6,Off-ball or weak-side contact,0.2132216014897579
+20161223SACMIN.txt,7,Post-play physical contact,0.2131410256410256
+20151218DENUTA.txt,0,Close-range contact near the basket,0.2128953771289538
+20150425CHIMIL.txt,0,Close-range contact near the basket,0.2119252873563218
+20151031SACLAC.txt,0,Close-range contact near the basket,0.2117794486215539
+20160115CHANOP.txt,4,Drive or shot contested by defender,0.211484593837535
+20151102PORMIN.txt,0,Close-range contact near the basket,0.2112573099415204
+20180401INDLAC.txt,5,Screen-related offensive contact,0.2111742424242424
+20171223LACMEM.txt,8,Marginal contact & non-call assessment,0.2111742424242424
+20151116PORSAS.txt,0,Close-range contact near the basket,0.2111111111111111
+20150325INDWAS.txt,5,Screen-related offensive contact,0.2111111111111111
+20180118ORLCLE.txt,1,Shot attempt with incidental contact,0.2109788359788359
+20150330LALPHI.txt,6,Off-ball or weak-side contact,0.2107843137254902
+20160113MINHOU.txt,0,Close-range contact near the basket,0.210594315245478
+20160305INDWAS.txt,5,Screen-related offensive contact,0.2105788423153692
+20171101MINNOP.txt,4,Drive or shot contested by defender,0.2102966841186736
+20150410SASHOU.txt,0,Close-range contact near the basket,0.2101990049751244
+20161226INDCHI.txt,11,General shooting foul situation,0.2099156118143459
+20180224DALUTA.txt,2,Replay review and ruling outcome,0.2095771144278607
+20170117DENLAL.txt,11,General shooting foul situation,0.2088014981273408
+20161210MIACHI.txt,6,Off-ball or weak-side contact,0.2086419753086419
+20160210UTANOP.txt,4,Drive or shot contested by defender,0.2083333333333333
+20170103WASDAL.txt,3,Perimeter shot with defender contact,0.2083333333333333
+20160208LALIND.txt,5,Screen-related offensive contact,0.2077777777777777
+20151220MILPHO.txt,4,Drive or shot contested by defender,0.2075268817204301
+20151103ORLNOP.txt,4,Drive or shot contested by defender,0.2071078431372549
+20170117DALCHI.txt,2,Replay review and ruling outcome,0.2071078431372549
+20151227PORSAC.txt,7,Post-play physical contact,0.2068557919621749
+20151228CLEPHO.txt,1,Shot attempt with incidental contact,0.2063063063063062
+20151102OKCHOU.txt,8,Marginal contact & non-call assessment,0.2060931899641577
+20150404ORLMIL.txt,3,Perimeter shot with defender contact,0.2060041407867494
+20170426ATLWAS.txt,3,Perimeter shot with defender contact,0.2058333333333333
+20180325SASMIL.txt,8,Marginal contact & non-call assessment,0.2053805774278215
+20150306SACORL.txt,2,Replay review and ruling outcome,0.2052154195011337
+20150326INDMIL.txt,2,Replay review and ruling outcome,0.2050438596491228
+20150411PHICHI.txt,11,General shooting foul situation,0.2050147492625368
+20160206DETIND.txt,3,Perimeter shot with defender contact,0.2039627039627039
+20150311MEMBOS.txt,7,Post-play physical contact,0.203891708967851
+20180408ATLBOS.txt,2,Replay review and ruling outcome,0.2033045977011494
+20160326INDBKN.txt,10,Wing isolation or drive play,0.2032163742690058
+20150402PHOGSW.txt,2,Replay review and ruling outcome,0.2027243589743589
+20151207WASMIA.txt,6,Off-ball or weak-side contact,0.2023809523809523
+20151230BKNORL.txt,10,Wing isolation or drive play,0.2014492753623188
+20161030DALHOU.txt,8,Marginal contact & non-call assessment,0.2010752688172043
+20150402HOUDAL.txt,0,Close-range contact near the basket,0.2008771929824561
+20150311CHIPHI.txt,0,Close-range contact near the basket,0.2006802721088435
+20170401ATLCHI.txt,2,Replay review and ruling outcome,0.1998587570621468
+20180422CLEIND.txt,1,Shot attempt with incidental contact,0.1998556998556998
+20151121PHIMIA.txt,9,Guard-driven shot with defensive pressure,0.1997863247863248
+20150304MEMHOU.txt,0,Close-range contact near the basket,0.1997716894977169
+20170412NOPPOR.txt,4,Drive or shot contested by defender,0.1983568075117371
+20151226CHIDAL.txt,11,General shooting foul situation,0.1979166666666666
+20150422BKNATL.txt,2,Replay review and ruling outcome,0.197594501718213
+20180307ORLLAL.txt,8,Marginal contact & non-call assessment,0.1974043715846994
+20150303LALCHA.txt,9,Guard-driven shot with defensive pressure,0.197072072072072
+20160319GSWSAS.txt,6,Off-ball or weak-side contact,0.1968599033816425
+20151201PHOBKN.txt,4,Drive or shot contested by defender,0.1967418546365915
+20150411UTAPOR.txt,3,Perimeter shot with defender contact,0.196165191740413
+20151028SASOKC.txt,7,Post-play physical contact,0.1959876543209876
+20150303WASCHI.txt,0,Close-range contact near the basket,0.195273631840796
+20170329DALNOP.txt,4,Drive or shot contested by defender,0.1950067476383265
+20180307CLEDEN.txt,1,Shot attempt with incidental contact,0.1947916666666666
+20151116OKCMEM.txt,0,Close-range contact near the basket,0.1941287878787878
+20180203GSWDEN.txt,11,General shooting foul situation,0.1938943894389438
+20151105OKCCHI.txt,5,Screen-related offensive contact,0.1938271604938271
+20160210SACPHI.txt,7,Post-play physical contact,0.1938271604938271
+20160126DALLAL.txt,6,Off-ball or weak-side contact,0.1937751004016064
+20151205SACHOU.txt,7,Post-play physical contact,0.1936026936026936
+20160125MIACHI.txt,11,General shooting foul situation,0.1931567328918322
+20170128MEMUTA.txt,7,Post-play physical contact,0.1930555555555555
+20180205DALLAC.txt,2,Replay review and ruling outcome,0.1926328502415459
+20150317MILNOP.txt,9,Guard-driven shot with defensive pressure,0.1926147704590818
+20150301GSWBOS.txt,11,General shooting foul situation,0.1924242424242424
+20161101ORLPHI.txt,9,Guard-driven shot with defensive pressure,0.1921443736730361
+20150310DETLAL.txt,3,Perimeter shot with defender contact,0.1921119592875318
+20170105PHODAL.txt,4,Drive or shot contested by defender,0.1916666666666666
+20170328WASLAL.txt,6,Off-ball or weak-side contact,0.191609977324263
+20151031NYKWAS.txt,2,Replay review and ruling outcome,0.1906130268199233
+20150415DENGSW.txt,2,Replay review and ruling outcome,0.1897689768976898
+20160406NOPBOS.txt,4,Drive or shot contested by defender,0.1889880952380952
+20150325BKNCHA.txt,9,Guard-driven shot with defensive pressure,0.1888888888888888
+20151205DENPHI.txt,11,General shooting foul situation,0.1886446886446886
+20160303SASNOP.txt,7,Post-play physical contact,0.1882494004796163
+20150401BKNNYK.txt,10,Wing isolation or drive play,0.1871794871794872
+20160402SACDEN.txt,11,General shooting foul situation,0.1858974358974359
+20160208DENBKN.txt,11,General shooting foul situation,0.1840579710144927
+20170412PHINYK.txt,4,Drive or shot contested by defender,0.1817375886524822
+20150401SACHOU.txt,7,Post-play physical contact,0.1805555555555555
+20151101ORLCHI.txt,11,General shooting foul situation,0.1796296296296296
+20161216DALUTA.txt,0,Close-range contact near the basket,0.1789366053169734
+20150306MIAWAS.txt,6,Off-ball or weak-side contact,0.1784660766961652
+20151104SASWAS.txt,2,Replay review and ruling outcome,0.1784660766961652
+20160209BOSMIL.txt,9,Guard-driven shot with defensive pressure,0.1773333333333333
+20160130BKNNOP.txt,4,Drive or shot contested by defender,0.1769759450171821
+20150314DETUTA.txt,3,Perimeter shot with defender contact,0.1755555555555555
+20151108LALNYK.txt,6,Off-ball or weak-side contact,0.174373795761079
+20150318MINTOR.txt,1,Shot attempt with incidental contact,0.1738351254480286
+20160221LALCHI.txt,6,Off-ball or weak-side contact,0.1726190476190476
+20151209HOUWAS.txt,8,Marginal contact & non-call assessment,0.1721491228070175
+20151111BKNHOU.txt,8,Marginal contact & non-call assessment,0.1719409282700422
+20150304DETNOP.txt,4,Drive or shot contested by defender,0.1716666666666667
+20160110OKCPOR.txt,3,Perimeter shot with defender contact,0.1713836477987421
+20150329LALBKN.txt,6,Off-ball or weak-side contact,0.1666666666666666
+20150304CLETOR.txt,1,Shot attempt with incidental contact,0.1651515151515151
+20150318PORMIA.txt,2,Replay review and ruling outcome,0.1632996632996633
+20151029MEMIND.txt,7,Post-play physical contact,0.1622222222222222
+20151226HOUNOP.txt,0,Close-range contact near the basket,0.1600660066006601
+20150409PORGSW.txt,2,Replay review and ruling outcome,0.1596491228070175
+20170106NYKMIL.txt,9,Guard-driven shot with defensive pressure,0.1584022038567493
+20150307ATLPHI.txt,9,Guard-driven shot with defensive pressure,0.1554487179487179
+20160130WASHOU.txt,3,Perimeter shot with defender contact,0.1497747747747747
+20160114DETMEM.txt,7,Post-play physical contact,0.1443452380952381
+20151229ATLHOU.txt,8,Marginal contact & non-call assessment,0.1349206349206349
+20151113CHACHI.txt,9,Guard-driven shot with defensive pressure,0.1343537414965986
+20150307INDNYK.txt,5,Screen-related offensive contact,0.1337719298245614
